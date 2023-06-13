@@ -1,0 +1,17 @@
+2023/02/22-15:04:33.896 dfc Reusing MANIFEST C:/Users/Ant/Desktop/2023-02-15 LINAC TESTING V1.3/Linac Testing/Saved/webcache_4147\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/02/22-15:04:33.901 dfc Recovering log #10
+2023/02/22-15:04:33.902 dfc Reusing old log C:/Users/Ant/Desktop/2023-02-15 LINAC TESTING V1.3/Linac Testing/Saved/webcache_4147\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/000010.log 
+2023/02/22-15:04:34.280 6914 Manual compaction at level-0 from '\x00\x03\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x04\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/02/22-15:04:34.280 6914 Manual compaction at level-1 from '\x00\x03\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x04\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/02/22-15:34:48.646 6914 Level-0 table #15: started
+2023/02/22-15:34:48.649 6914 Level-0 table #15: 10275 bytes OK
+2023/02/22-15:34:48.651 6914 Delete type=0 #10
+2023/02/22-15:34:48.653 6914 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2023/02/22-15:34:48.653 6914 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x04\x01\x1f\x04\x03\x01\x03\x00N\x00E\x00W\x03\x00\x00\x00\x00\x00\x00L@\x03\x00\xa0\x0d_\xadgxB\x00\x03\x00\x00\x00\x00\x00\x00\x00@' @ 517 : 1
+2023/02/22-15:34:48.653 6914 Compacting 1@1 + 1@2 files
+2023/02/22-15:34:48.661 6914 Generated table #16@1: 41 keys, 2461 bytes
+2023/02/22-15:34:48.661 6914 Compacted 1@1 + 1@2 files => 2461 bytes
+2023/02/22-15:34:48.662 6914 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/02/22-15:34:48.663 6914 Delete type=2 #12
+2023/02/22-15:34:48.663 6914 Delete type=2 #15
+2023/02/22-15:34:48.663 6914 Manual compaction at level-1 from '\x00\x04\x01\x1f\x04\x03\x01\x03\x00N\x00E\x00W\x03\x00\x00\x00\x00\x00\x00L@\x03\x00\xa0\x0d_\xadgxB\x00\x03\x00\x00\x00\x00\x00\x00\x00@' @ 517 : 1 .. (end); will stop at (end)
