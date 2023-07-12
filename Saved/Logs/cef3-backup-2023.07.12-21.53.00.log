@@ -1,0 +1,58 @@
+[0712/175027.634:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -101
+[0712/175027.686:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -101
+[0712/175031.124:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -101
+[0712/175031.177:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -101
+[0712/175056.469:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0712/175056.470:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0712/175056.505:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0712/175056.505:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0712/175117.586:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 104 to 127
+[0712/175117.586:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 102 to 125
+[0712/175117.586:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 104 to 124
+[0712/175117.586:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 106 to 123
+[0712/175117.586:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 110 to 122
+[0712/175117.587:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 103 to 121
+[0712/175117.587:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 105 to 120
+[0712/175117.587:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 111 to 119
+[0712/175117.598:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 1 to 14
+[0712/175117.598:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 3 to 13
+[0712/175117.598:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 5 to 12
+[0712/175117.598:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 6 to 11
+[0712/175117.623:ERROR:audio_rtp_receiver.cc(88)] AudioRtpReceiver::OnSetVolume: No audio channel exists.
+[0712/175131.793:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 104 to 127
+[0712/175131.793:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 102 to 125
+[0712/175131.793:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 104 to 124
+[0712/175131.793:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 106 to 123
+[0712/175131.793:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 110 to 122
+[0712/175131.793:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 103 to 121
+[0712/175131.793:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 105 to 120
+[0712/175131.793:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 111 to 119
+[0712/175131.793:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 1 to 14
+[0712/175131.793:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 3 to 13
+[0712/175131.793:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 5 to 12
+[0712/175131.793:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 6 to 11
+[0712/175131.793:ERROR:audio_rtp_receiver.cc(88)] AudioRtpReceiver::OnSetVolume: No audio channel exists.
+[0712/175133.420:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[0712/175138.552:ERROR:audio_rtp_receiver.cc(88)] AudioRtpReceiver::OnSetVolume: No audio channel exists.
+[0712/175138.552:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 104 to 127
+[0712/175138.552:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 102 to 125
+[0712/175138.552:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 104 to 124
+[0712/175138.552:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 106 to 123
+[0712/175138.552:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 110 to 122
+[0712/175138.552:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 103 to 121
+[0712/175138.552:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 105 to 120
+[0712/175138.552:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 111 to 119
+[0712/175138.552:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 1 to 14
+[0712/175138.553:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 3 to 13
+[0712/175138.553:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 5 to 12
+[0712/175138.553:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 6 to 11
+[0712/175219.865:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0712/175219.881:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0712/175256.785:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0712/175256.787:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0712/175259.983:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0712/175259.986:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0712/175300.060:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0712/175300.063:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0712/175300.078:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0712/175300.079:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.

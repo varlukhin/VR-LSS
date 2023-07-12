@@ -1,0 +1,1339 @@
+﻿Log file open, 06/14/23 16:17:20
+LogConfig: Display: Loading HoloLens ini files took 0.03 seconds
+LogConfig: Display: Loading VulkanPC ini files took 0.03 seconds
+LogConfig: Display: Loading Android ini files took 0.03 seconds
+LogConfig: Display: Loading Mac ini files took 0.03 seconds
+LogConfig: Display: Loading Unix ini files took 0.03 seconds
+LogConfig: Display: Loading IOS ini files took 0.03 seconds
+LogConfig: Display: Loading Windows ini files took 0.03 seconds
+LogConfig: Display: Loading TVOS ini files took 0.04 seconds
+LogConfig: Display: Loading Linux ini files took 0.05 seconds
+LogConfig: Display: Loading LinuxArm64 ini files took 0.05 seconds
+LogPluginManager: Mounting Engine plugin FastBuildController
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogPluginManager: Mounting Engine plugin Bridge
+LogPluginManager: Mounting Engine plugin XGEController
+LogPluginManager: Mounting Engine plugin AlembicImporter
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
+LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+LogPluginManager: Mounting Engine plugin PluginBrowser
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin StylusInput
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin ModelingToolsEditorMode
+LogPluginManager: Mounting Engine plugin IKRig
+LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting Engine plugin GitSourceControl
+LogPluginManager: Mounting Engine plugin DataValidation
+LogPluginManager: Mounting Engine plugin PerforceSourceControl
+LogPluginManager: Mounting Engine plugin CryptoKeys
+LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
+LogPluginManager: Mounting Engine plugin TextureFormatOodle
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin PlasticSourceControl
+LogPluginManager: Mounting Engine plugin PixWinPlugin
+LogPluginManager: Mounting Engine plugin RiderSourceCodeAccess
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin TraceDataFilters
+LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting Engine plugin AvfMedia
+LogPluginManager: Mounting Engine plugin HardwareEncoders
+LogPluginManager: Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin PixelStreaming
+LogPluginManager: Mounting Engine plugin MediaPlayerEditor
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin BackChannel
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin ChaosClothEditor
+LogPluginManager: Mounting Engine plugin AndroidMedia
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+LogPluginManager: Mounting Engine plugin MeshLODToolset
+LogPluginManager: Mounting Engine plugin OpenImageDenoise
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin SkeletalReduction
+LogPluginManager: Mounting Engine plugin StaticMeshEditorModeling
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin SubversionSourceControl
+LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
+LogPluginManager: Mounting Engine plugin AndroidPermission
+LogPluginManager: Mounting Engine plugin AppleMoviePlayer
+LogPluginManager: Mounting Engine plugin AppleImageUtils
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin CableComponent
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin MatineeToLevelSequence
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin HairStrands
+LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+LogPluginManager: Mounting Engine plugin MeshModelingToolset
+LogPluginManager: Mounting Engine plugin MobilePatchingUtils
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin GeometryFlow
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin RuntimePhysXCooking
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin SoundFields
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPluginManager: Mounting Engine plugin Interchange
+LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ModelingToolsEditorMode/Content/' mounted to '/ModelingToolsEditorMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/PixelStreaming/Content/' mounted to '/PixelStreaming/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshLODToolset/Content/' mounted to '/MeshLODToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/StaticMeshEditorModeling/Content/' mounted to '/StaticMeshEditorModeling/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HairStrands/Content/' mounted to '/HairStrands/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryFlow/Content/' mounted to '/GeometryFlow/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+SourceControl: Source control is disabled
+SourceControl: Source control is disabled
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: Created online subsystem instance for: NULL
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE5+Release-5.0-CL-20979098
+LogInit: Engine Version: 5.0.3-20979098+++UE5+Release-5.0
+LogInit: Compatible Engine Version: 5.0.0-19505902+++UE5+Release-5.0
+LogInit: Net CL: 19505902
+LogInit: OS: Windows 11 (22H2) [10.0.22621.1555] (), CPU: 12th Gen Intel(R) Core(TM) i7-12700F, GPU: NVIDIA GeForce RTX 3070
+LogInit: Compiled (64-bit): Jul  7 2022 02:16:06
+LogInit: Compiled with Visual C++: 19.29.30138.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.0
+LogInit: Command Line:  "C:\Users\nusra\OneDrive\Desktop\GIT LIVE VERSION\LSS_RT_PS\LinacDemo.uproject" -run=Cook -TargetPlatform=Windows -fileopenlog -ddc=InstalledDerivedDataBackendGraph -unversioned -abslog="C:\Program Files\Epic Games\UE_5.0\Engine\Programs\AutomationTool\Saved\Cook-2023.06.14-16.17.19.txt" -stdout -CrashForUAT -unattended -NoLogTimes -UTF8Output
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_5.0/Engine/Binaries/Win64/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 34
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 59
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 3
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 59
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 36
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:None]] deferred - dummy variable created
+LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:None]] deferred - dummy variable created
+LogConfig: CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+LogConfig: CVar [[r.Mobile.AllowSoftwareOcclusion:0]] deferred - dummy variable created
+LogConfig: CVar [[r.VT.EnableCompressZlib:1]] deferred - dummy variable created
+LogConfig: CVar [[r.VT.EnableCompressCrunch:0]] deferred - dummy variable created
+LogConfig: CVar [[r.DistanceFieldBuild.EightBit:0]] deferred - dummy variable created
+LogConfig: CVar [[r.GenerateLandscapeGIData:0]] deferred - dummy variable created
+LogConfig: CVar [[r.DistanceFieldBuild.Compress:0]] deferred - dummy variable created
+LogConfig: CVar [[r.TessellationAdaptivePixelsPerTriangle:48.000000]] deferred - dummy variable created
+LogConfig: CVar [[TranslucentSortAxis:(X=0.000000,Y=-1.000000,Z=0.000000)]] deferred - dummy variable created
+LogConfig: CVar [[r.EyeAdaptation.EditorOnly:0]] deferred - dummy variable created
+LogConfig: CVar [[r.SSGI.Enable:0]] deferred - dummy variable created
+LogConfig: CVar [[bDefaultParticleCutouts:0]] deferred - dummy variable created
+LogConfig: CVar [[r.SupportAtmosphericFog:1]] deferred - dummy variable created
+LogConfig: CVar [[r.MobileDynamicPointLightsUseStaticBranch:1]] deferred - dummy variable created
+LogConfig: CVar [[r.LightPropagationVolume:0]] deferred - dummy variable created
+LogConfig: CVar [[bStreamSkeletalMeshLODs:(Default=False,PerPlatform=())]] deferred - dummy variable created
+LogConfig: CVar [[bDiscardSkeletalMeshOptionalLODs:(Default=False,PerPlatform=())]] deferred - dummy variable created
+LogConfig: CVar [[VisualizeCalibrationCustomMaterialPath:None]] deferred - dummy variable created
+LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+LogConfig: CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+LogConfig: CVar [[DefaultPVRTCQuality:1]] deferred - dummy variable created
+LogConfig: CVar [[DefaultASTCQualityBySpeed:1]] deferred - dummy variable created
+LogConfig: CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+LogConfig: CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+LogConfig: CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+LogConfig: CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+LogConfig: CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MatineeActorCameraAnim]] deferred - dummy variable created
+LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+LogConfig: CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+LogConfig: CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+LogConfig: CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+LogConfig: CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MatineeActorCameraAnim]] deferred - dummy variable created
+LogConfig: CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+LogConfig: CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+LogConfig: CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+LogConfig: CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+LogConfig: CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+LogConfig: CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+LogConfig: CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+LogConfig: CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+LogConfig: CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+LogConfig: CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+LogConfig: CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+LogConfig: CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+LogConfig: CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+LogConfig: CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+LogInit: Selected Device Profile: [WindowsEditor]
+LogDeviceProfileManager: Applying CVar settings loaded from the selected device profile: [WindowsEditor]
+LogHAL: Display: Platform has ~ 16 GB [16961929216 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+LogDeviceProfileManager: Going up to parent DeviceProfile [Windows]
+LogDeviceProfileManager: Going up to parent DeviceProfile []
+LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/nusra/OneDrive/Desktop/GIT LIVE VERSION/LSS_RT_PS/Saved/Config/WindowsEditor/Editor.ini]
+LogInit: Computer: NUSRAT_LAB
+LogInit: User: nusra
+LogInit: CPU Page size=4096, Cores=12
+LogInit: High frequency timer resolution =10.000000 MHz
+LogMemory: Memory total: Physical=15.8GB (16GB approx)
+LogMemory: Platform Memory Stats for WindowsEditor
+LogMemory: Process Physical Memory: 271.05 MB used, 271.05 MB peak
+LogMemory: Process Virtual Memory: 241.80 MB used, 241.80 MB peak
+LogMemory: Physical Memory: 11309.34 MB used,  4866.82 MB free, 16176.16 MB total
+LogMemory: Virtual Memory: 21378.37 MB used,  2940.45 MB free, 24318.82 MB total
+LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+LogTextureFormatETC2: Display: ETC2 Texture loading DLL: TextureConverter.dll
+LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.5
+LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLens'
+LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLensClient'
+LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxEditor'
+LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64'
+LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Server'
+LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Client'
+LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+LogTargetPlatformManager: Display: Building Assets For Windows
+LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+LogTargetPlatformManager: Unable to find audio format BINKA from hinted modules, loading all potential format modules to find it
+LogTargetPlatformManager: Loaded format module AudioFormatADPCM
+LogTargetPlatformManager:   ADPCM
+LogTargetPlatformManager:   PCM
+LogTargetPlatformManager: Loaded format module AudioFormatBink
+LogTargetPlatformManager:   BINKA
+LogTargetPlatformManager: Loaded format module AudioFormatOgg
+LogTargetPlatformManager:   OGG
+LogTargetPlatformManager: Loaded format module AudioFormatOpus
+LogTargetPlatformManager:   OPUS
+LogTargetPlatformManager: Unable to find shader format SF_METAL from hinted modules, loading all potential format modules to find it
+LogTargetPlatformManager: Loaded format module MetalShaderFormat
+LogTargetPlatformManager:   SF_METAL
+LogTargetPlatformManager:   SF_METAL_MRT
+LogTargetPlatformManager:   SF_METAL_TVOS
+LogTargetPlatformManager:   SF_METAL_MRT_TVOS
+LogTargetPlatformManager:   SF_METAL_SM5
+LogTargetPlatformManager:   SF_METAL_MACES3_1
+LogTargetPlatformManager:   SF_METAL_MRT_MAC
+LogTargetPlatformManager: Loaded format module ShaderFormatD3D
+LogTargetPlatformManager:   PCD3D_SM6
+LogTargetPlatformManager:   PCD3D_SM5
+LogTargetPlatformManager:   PCD3D_ES31
+LogTargetPlatformManager:   D3D_ES3_1_HOLOLENS
+LogTargetPlatformManager: Loaded format module ShaderFormatOpenGL
+LogTargetPlatformManager:   GLSL_150_ES31
+LogTargetPlatformManager:   GLSL_ES3_1_ANDROID
+LogTargetPlatformManager: Loaded format module ShaderFormatVectorVM
+LogTargetPlatformManager:   VVM_1_0
+LogTargetPlatformManager: Loaded format module VulkanShaderFormat
+LogTargetPlatformManager:   SF_VULKAN_SM5
+LogTargetPlatformManager:   SF_VULKAN_ES31_ANDROID
+LogTargetPlatformManager:   SF_VULKAN_ES31
+LogTargetPlatformManager:   SF_VULKAN_SM5_ANDROID
+LogWindows: WindowsPlatformFeatures enabled
+LogInit: Physics initialised using underlying interface: Chaos
+LogInit: Using OS detected language (en-US).
+LogInit: Using OS detected locale (en-CA).
+LogTextLocalizationManager: No specific localization for 'en-US' exists, so 'en' will be used for the language.
+LogRendererCore: Ray tracing is disabled. Reason: not supported by current RHI.
+LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../Users/nusra/OneDrive/Desktop/GIT LIVE VERSION/LSS_RT_PS/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../Users/nusra/OneDrive/Desktop/GIT LIVE VERSION/LSS_RT_PS/Intermediate/ShaderAutogen/PCD3D_SM6/AutogenShaderHeaders.ush
+LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../Users/nusra/OneDrive/Desktop/GIT LIVE VERSION/LSS_RT_PS/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/nusra/OneDrive/Desktop/GIT LIVE VERSION/LSS_RT_PS/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+LogDerivedDataCache: Unable to find inner node Pak for hierarchy Hierarchy.
+LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/nusra/OneDrive/Desktop/GIT LIVE VERSION/LSS_RT_PS/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchy Hierarchy.
+LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1230 MiB)
+LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+LogDerivedDataCache: Speed tests for C:/Users/nusra/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+LogDerivedDataCache: Display: Performance to C:/Users/nusra/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.02ms. RandomReadSpeed=1094.91MBs, RandomWriteSpeed=165.55MBs. Assigned SpeedClass 'Local'
+LogDerivedDataCache: Using Local data cache path C:/Users/nusra/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+LogDerivedDataCache: Unable to find inner node Shared for hierarchy Hierarchy.
+LogVirtualization: VirtualizationSystem name found in ini file: None
+LogVirtualization: FNullVirtualizationSystem mounted, virtualization will be disabled
+LogShaderCompilers: Guid format shader working directory is -27 characters bigger than the processId version (../../../../../../Users/nusra/OneDrive/Desktop/GIT LIVE VERSION/LSS_RT_PS/Intermediate/Shaders/WorkingDirectory/9800/).
+LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/nusra/AppData/Local/Temp/UnrealShaderWorkingDir/D0D9A3214A9338631AA7EB9CDA9C8A08/'.
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogShaderCompilers: Display: Using Local Shader Compiler with 17 workers.
+LogAssetRegistry: FAssetRegistry took 0.0188 seconds to start up
+LogEditorDomain: Display: EditorDomain is Disabled
+LogSerialization: UsePackageTrailer: 'false'
+LogInit: Selected Device Profile: [WindowsEditor]
+LogDeviceProfileManager: Active device profile: [000008EB35BE4280][000008EB35C02800 50] WindowsEditor
+LogDeviceProfileManager: Profiles: [000008EB35BE3D40][000008EB35C00000 50] Windows, [000008EB35BE4280][000008EB35C02800 50] WindowsEditor, [000008EB35BE2300][000008EB35C07800 50] WindowsServer, [000008EB35BE0A80][000008EB35C0A000 50] WindowsClient, [000008EB35BE2F40][000008EB35C0C800 50] IOS, [000008EB35BE0E00][000008EB2E192800 50] iPadAir2, [000008EB35BE4EC0][000008EB35C20000 50] IPadPro, [000008EB35BE5240][000008EB35C22800 50] iPadAir3, [000008EB35BE3480][000008EB35C27800 50] iPadAir4, [000008EB35BE16C0][000008EB35C2A000 50] iPadMini4, [000008EB35BE4440][000008EB35C2C800 50] iPadMini5, [000008EB35BE5400][000008EB35C05000 50] iPadMini6, [000008EB35BE7C40][000008EB35C32800 50] iPhone6S, [000008EB35BE7FC0][000008EB35C30000 50] iPhone7, [000008EB35BE8340][000008EB35C35000 50] iPodTouch7, [000008EB35BE47C0][000008EB35C3A000 50] iPhone6SPlus, [000008EB35BE78C0][000008EB35C3C800 50] iPhone7Plus, [000008EB35BE39C0][000008EB35C25000 50] iPhoneSE, [000008EB35BE3800][000008EB35C37800 50] iPhone8, [000008EB35BE7700][000008EB35BC0000 50] iPhone8Plus, [000008EB35BE86C0][000008EB35BC5000 50] iPhoneX, [000008EB35BE4B40][000008EB35BC7800 50] iPhoneXS, [000008EB35BE7540][000008EB35BCA000 50] iPhoneXSMax, [000008EB35BE8C00][000008EB35BCC800 50] iPhoneXR, [000008EB35BE7380][000008EB29AF0000 50] iPhone11, [000008EB35BE5780][000008EB35D10000 50] iPhone11Pro, [000008EB35BE2840][000008EB35D15000 50] iPhone11ProMax, [000008EB35BE5940][000008EB35D17800 50] iPhoneSE2, [000008EB35BE3B80][000008EB35D1A000 50] iPhone12Mini, [000008EB35BE8880][000008EB35D1C800 50] iPhone12, [000008EB35BE6200][000008EB35BC2800 50] iPhone12Pro, [000008EB35BE08C0][000008EB35C40000 50] iPhone12ProMax, [000008EB35BE63C0][000008EB35C45000 50] iPhone13Mini, [000008EB35BE2140][000008EB35C47800 50] iPhone13, [000008EB35BE6AC0][000008EB35C4A000 50] iPhone13Pro, [000008EB35BE32C0][000008EB35C4C800 50] iPhone13ProMax, [000008EB35BE40C0][000008EB35D12800 50] iPadPro105, [000008EB35BE55C0][000008EB35C50000 50] iPadPro129, [000008EB35BE0FC0][000008EB35C55000 50] iPadPro97, [000008EB35BE5080][000008EB35C57800 50] iPadPro2_129, [000008EB35BE0540][000008EB35C5A000 50] iPad5, [000008EB35BE7E00][000008EB35C5C800 50] iPad6, [000008EB35BE4D00][000008EB35C42800 50] iPad7, [000008EB35BE1500][000008EB35C60000 50] iPad8, [000008EB35BE5B00][000008EB35C65000 50] iPad9, [000008EB35BE6580][000008EB35C67800 50] iPadPro11, [000008EB35BE2A00][000008EB35C6A000 50] iPadPro2_11, [000008EB35BE1880][000008EB35C6C800 50] iPadPro3_11, [000008EB35BE6040][000008EB35C52800 50] iPadPro3_129, [000008EB35BE6740][000008EB35C70000 50] iPadPro4_129, [000008EB35BE0700][000008EB35C75000 50] iPadPro5_129, [000008EB35BE3640][000008EB35C77800 50] AppleTV, [000008EB35BE8A40][000008EB35C7A000 50] AppleTV4K, [000008EB35BE5CC0][000008EB35C7C800 50] TVOS, [000008EB35BEA2C0][000008EB35C90000 50] Mac, [000008EB35BEA640][000008EB35C92800 50] MacEditor, [000008EB35BE2680][000008EB35C97800 50] MacClient, [000008EB35BE1F80][000008EB35C9A000 50] MacServer, [000008EB35BE4600][000008EB35C62800 50] Linux, [000008EB35BE8DC0][000008EB35C72800 50] LinuxEditor, [000008EB35BE4980][000008EB35C9C800 50] LinuxArm64Editor, [000008EB35BEA9C0][000008EB35C80000 50] LinuxArm64, [000008EB35BE9BC0][000008EB35C85000 50] LinuxClient, [000008EB35BE94C0][000008EB35C87800 50] LinuxArm64Client, [000008EB35BE2D80][000008EB35C8A000 50] LinuxServer, [000008EB35BE01C0][000008EB35C8C800 50] LinuxArm64Server, [000008EB35BE6900][000008EB35C95000 50] Android, [000008EB35BE2BC0][000008EB35CA0000 50] Android_Preview_OpenGL, [000008EB35BE1A40][000008EB35CA5000 50] Android_Preview_Vulkan, [000008EB35BE0C40][000008EB35CA7800 50] Android_Low, [000008EB35BE1180][000008EB35CAA000 50] Android_Mid, [000008EB35BE6E40][000008EB35CAC800 50] Android_High, [000008EB35BE9D80][000008EB35C82800 50] Android_Default, [000008EB35BE6C80][000008EB35CB0000 50] Android_Adreno4xx, [000008EB35BE9840][000008EB35CB5000 50] Android_Adreno5xx_Low, [000008EB35BE9140][000008EB35CB7800 50] Android_Adreno5xx, [000008EB35BE1DC0][000008EB35CBA000 50] Android_Adreno6xx, [000008EB35BE3100][000008EB35CBC800 50] Android_Adreno6xx_Vulkan, [000008EB35BE9F40][000008EB35CA2800 50] Android_Adreno7xx, [000008EB35BEAB80][000008EB35CC0000 50] Android_Adreno7xx_Vulkan, [000008EB35BE7000][000008EB35CC5000 50] Android_Mali_T6xx, [000008EB35BE1C00][000008EB35CC7800 50] Android_Mali_T7xx, [000008EB35BE8500][000008EB35CCA000 50] Android_Mali_T8xx, [000008EB35BE8F80][000008EB35CCC800 50] Android_Mali_G71, [000008EB35BEA100][000008EB35CB2800 50] Android_Mali_G72, [000008EB35BE24C0][000008EB35CD0000 50] Android_Mali_G72_Vulkan, [000008EB35BEA480][000008EB35CD5000 50] Android_Mali_G76, [000008EB35BEBD00][000008EB35CD7800 50] Android_Mali_G76_Vulkan, [000008EB35BEB0C0][000008EB35CDA000 50] Android_Mali_G77, [000008EB35BEC080][000008EB35CDC800 50] Android_Mali_G77_Vulkan, [000008EB35BEBEC0][000008EB35CC2800 50] Android_Mali_G78, [000008EB35BEC400][000008EB35CE0000 50] Android_Mali_G78_Vulkan, [000008EB35BE0380][000008EB35CE5000 50] Android_Mali_G710, [000008EB35BEC780][000008EB35CE7800 50] Android_Mali_G710_Vulkan, [000008EB35BEB980][000008EB35CEA000 50] Android_Xclipse_920, [000008EB35BECB00][000008EB35CEC800 50] Android_Xclipse_920_Vulkan, [000008EB35BE8180][000008EB35CD2800 50] Android_Vulkan_SM5, [000008EB35BED040][000008EB35CF0000 50] Android_PowerVR_G6xxx, [000008EB35BEB7C0][000008EB35CF5000 50] Android_PowerVR_GT7xxx, [000008EB35BED3C0][000008EB35CF7800 50] Android_PowerVR_GE8xxx, [000008EB35BECE80][000008EB35CFA000 50] Android_PowerVR_GM9xxx, [000008EB35BED740][000008EB35CFC800 50] Android_PowerVR_GM9xxx_Vulkan, [000008EB35BE0000][000008EB35CE2800 50] Android_TegraK1, [000008EB35BEDAC0][000008EB35D30000 50] Android_Unknown_Vulkan, [000008EB35BEA800][000008EB35D35000 50] Oculus_Quest, [000008EB35BE71C0][000008EB35D37800 50] Oculus_Quest2, [000008EB35BE9A00][000008EB35D3A000 50] HoloLens, 
+LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+LogMeshReduction: No distributed automatic mesh merging module available
+LogMeshMerging: No distributed automatic mesh merging module available
+LogNetVersion: LinacDemo 1.0.0, NetCL: 19505902, EngineNetVer: 23, GameNetVer: 0 (Checksum: 73949072)
+LogSlate: Border
+LogSlate: BreadcrumbButton
+LogSlate: Default
+LogSlate: Icons.Save
+LogSlate: Icons.Toolbar.Settings
+LogSlate: ListView
+LogSlate: SoftwareCursor_CardinalCross
+LogSlate: SoftwareCursor_Grab
+LogSlate: TableView.DarkRow
+LogSlate: TableView.Row
+LogSlate: TreeView
+SourceControl: Source control is disabled
+SourceControl: Source control is disabled
+SourceControl: Source control is disabled
+LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 42794ADE4527C0B66254F3AA509A8985 | Instance: E2CA4F8246E20FD862D236B12DA01909 (NUSRAT_LAB-9800).
+LogPython: Using Python 3.9.7
+SourceControl: Source control is disabled
+SourceControl: Source control is disabled
+LogUProjectInfo: Found projects:
+LogOpenImageDenoise: OIDN starting up
+SourceControl: Source control is disabled
+LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+LogCollectionManager: Loaded 0 collections in 0.002760 seconds
+LogFileCache: Scanning file cache for directory 'C:/Users/nusra/OneDrive/Desktop/GIT LIVE VERSION/LSS_RT_PS/Saved/Collections/' took 0.00s
+LogFileCache: Scanning file cache for directory 'C:/Users/nusra/OneDrive/Desktop/GIT LIVE VERSION/LSS_RT_PS/Content/Developers/nusra/Collections/' took 0.00s
+LogFileCache: Scanning file cache for directory 'C:/Users/nusra/OneDrive/Desktop/GIT LIVE VERSION/LSS_RT_PS/Content/Collections/' took 0.00s
+LogUObjectArray: 28713 objects as part of root set at end of initial load.
+LogUObjectAllocator: 8309584 out of 0 bytes used by permanent object pool.
+LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+LogInit: Executing Class /Script/UnrealEd.CookCommandlet
+LogInit: Initializing Editor Engine...
+LogEngine: Initializing Engine...
+LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+LogInit: Initializing FReadOnlyCVARCache
+LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+LogAIModule: Creating AISystem for world Untitled
+LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+LogInit: Texture streaming: Disabled
+LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+LogInit: Initializing Editor Engine Completed
+BlueprintLog: New page: Editor Load
+LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+LogCook: Display: Mobile HDR setting 0
+LogCook: Display: Creating asset registry
+LogAssetRegistry: Asset discovery search completed in 3.5602 seconds
+LogCollectionManager: Fixed up redirectors for 0 collections in 0.000004 seconds (updated 0 objects)
+LogCook: Display: Discovering localized assets for cultures: en
+LogCook: Display: Unable to read previous cook inisettings for platform Windows invalidating cook
+LogCook: Display: Clearing all cooked content for platform Windows
+LogCook: Display: Sandbox cleanup took 0.087 seconds for platforms Windows
+LogCook: Display: Checking global shaders for platform Windows
+LogShaderCompilers: Display: Worker (10/17) finished batch of 10 jobs in 76.491s, FSSDTemporalAccumulationCS [WorkerTime=66.012s], FMicropolyRasterizeCS [WorkerTime=5.362s], FSubsurfaceIndirectDispatchCS [WorkerTime=2.431s], FAYUVConvertPS [WorkerTime=0.460s], FHairInterpolationCS [WorkerTime=0.417s], FYUVv210ConvertPS [WorkerTime=0.409s], FCopyTextureCS_Texture2DArray_Texture2DArray_Float4 [WorkerTime=0.400s], FCopyTextureCS_Texture2D_Texture3D_Float4 [WorkerTime=0.388s], FCopyTextureCS_Texture3D_Texture2D_Float4 [WorkerTime=0.260s], FCopyTextureCS_Texture2DArray_Texture3D_Uint324 [WorkerTime=0.212s]
+LogShaderCompilers: Display: Worker (1/17) finished batch of 10 jobs in 67.144s, FGSConvolutionWithTextureCS [WorkerTime=38.968s], FLumenTraceProbeOcclusionCS [WorkerTime=17.623s], FBuildInstanceIdBufferAndCommandsFromPrimitiveIdsCs [WorkerTime=3.621s], FDiffuseIndirectCompositePS [WorkerTime=1.873s], FBuildInstanceIdBufferAndCommandsFromPrimitiveIdsCs [WorkerTime=1.188s], FObjectCullPS [WorkerTime=1.076s], FTonemapCS [WorkerTime=0.772s], FAmbientOcclusionCS [WorkerTime=0.726s], FHairInterpolationCS [WorkerTime=0.687s], FCullObjectsForViewCS [WorkerTime=0.531s]
+LogDerivedDataCache: C:/Users/nusra/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.751 and deleted 0 file(s) with total size 0 MiB.
+LogShaderCompilers: Display: Worker (6/17) finished batch of 10 jobs in 98.626s, FSSDTemporalAccumulationCS [WorkerTime=86.584s], FReflectionEnvironmentSkyLightingPS [WorkerTime=7.084s], FDistanceFieldShadowingCS [WorkerTime=0.937s], FDistanceFieldShadowingCS [WorkerTime=0.870s], FDistanceFieldShadowingCS [WorkerTime=0.768s], FDistanceFieldShadowingCS [WorkerTime=0.689s], FHairInterpolationCS [WorkerTime=0.564s], FDistanceFieldShadowingCS [WorkerTime=0.456s], FDistanceFieldShadowingCS [WorkerTime=0.418s], FComplexMultiplyImagesCS [WorkerTime=0.144s]
+LogShaderCompilers: Display: Worker (9/17) finished batch of 10 jobs in 69.482s, FGSComplexTransformCS [WorkerTime=15.118s], FHairEnvironmentLightingPS [WorkerTime=11.354s], FGSTwoForOneTransformCS [WorkerTime=11.130s], FReflectionEnvironmentSkyLightingPS [WorkerTime=9.970s], FGSTwoForOneTransformCS [WorkerTime=9.581s], FGSConvolutionWithTextureCS [WorkerTime=7.322s], FBuildInstanceIdBufferAndCommandsFromPrimitiveIdsCs [WorkerTime=2.934s], FVisiblityRasterComputeCS [WorkerTime=0.954s], FVisiblityRasterComputeCS [WorkerTime=0.652s], FHairInterpolationCS [WorkerTime=0.360s]
+LogShaderCompilers: Display: Worker (13/17) finished batch of 10 jobs in 61.976s, FPersistentClusterCull_CS [WorkerTime=30.609s], FDeferredLightPS [WorkerTime=9.074s], FDeferredLightPS [WorkerTime=7.211s], FDilateProbeResolveTilesCS [WorkerTime=5.125s], FDeferredLightPS [WorkerTime=3.912s], FLumenReflectionHardwareRayTracingRGS [WorkerTime=2.227s], FHairUpdateMeshTriangleCS [WorkerTime=1.561s], FScatterLeafProbesCS [WorkerTime=1.214s], FTonemapCS [WorkerTime=0.488s], FTonemapCS [WorkerTime=0.409s]
+LogShaderCompilers: Display: Worker (3/17) finished batch of 10 jobs in 313.509s, FClusteredShadingPS [WorkerTime=300.886s], FClusteredShadingPS [WorkerTime=6.945s], FDistanceFieldShadowingCS [WorkerTime=1.699s], FGTAOHorizonSearchAndIntegrateCS [WorkerTime=1.626s], FDistanceFieldShadowingCS [WorkerTime=0.766s], FHairInterpolationCS [WorkerTime=0.363s], FCombineConeVisibilityCS [WorkerTime=0.316s], FCullObjectsForShadowCS [WorkerTime=0.303s], FHairVisibilityPrimitiveIdCompactionCS [WorkerTime=0.243s], FDiaphragmDOFHybridScatterPS [WorkerTime=0.137s]
+LogShaderCompilers: Display: Worker (15/17) finished batch of 10 jobs in 96.590s, FPhysicsFieldRayMarchingCS [WorkerTime=34.599s], FPersistentClusterCull_CS [WorkerTime=32.876s], FLumenRadiositySpatialFilterProbeRadiance [WorkerTime=13.266s], FLumenScreenProbeGatherHardwareRayTracingRGS [WorkerTime=5.887s], FLumenScreenProbeGatherHardwareRayTracingRGS [WorkerTime=5.196s], FLumenDirectLightingHardwareRayTracingBatchedRGS [WorkerTime=2.321s], FLumenDirectLightingSampleShadowMapCS [WorkerTime=1.125s], FMarkRadianceProbesUsedByTranslucencyVolumeCS [WorkerTime=0.666s], FLumenRadianceCacheHardwareRayTracingIndirectArgsCS [WorkerTime=0.344s], FHairStrandsTextureVS [WorkerTime=0.194s]
+LogShaderCompilers: Display: Worker (7/17) finished batch of 10 jobs in 67.832s, FPersistentClusterCull_CS [WorkerTime=19.883s], FScreenProbeIntegrateCS [WorkerTime=11.795s], FScreenProbeIntegrateCS [WorkerTime=10.161s], FScreenProbeIntegrateCS [WorkerTime=9.121s], FLumenScreenProbeGatherHardwareRayTracingRGS [WorkerTime=7.728s], FLumenScreenProbeGatherHardwareRayTracingRGS [WorkerTime=5.664s], FNiagaraUpdateMeshGPUSceneInstancesCS [WorkerTime=2.153s], FScreenProbeConvertToIrradianceCS [WorkerTime=0.540s], FScreenProbeCompositeTracesWithScatterCS [WorkerTime=0.490s], FScreenProbeCalculateMovingCS [WorkerTime=0.189s]
+LogShaderCompilers: Display: Worker (4/17) finished batch of 10 jobs in 69.469s, FPhysicsFieldRayMarchingCS [WorkerTime=56.310s], FScreenProbeTraceVoxelsCS [WorkerTime=2.812s], FInstanceCull_CS [WorkerTime=2.735s], FScreenProbeTraceVoxelsCS [WorkerTime=2.436s], FScreenProbeTraceVoxelsCS [WorkerTime=1.477s], FTranslucencyVolumeIntegrateCS [WorkerTime=1.092s], FScreenProbeTraceVoxelsCS [WorkerTime=0.886s], FNiagaraRayMarchGlobalSdfCS [WorkerTime=0.654s], FTonemapCS [WorkerTime=0.517s], FTonemapPS [WorkerTime=0.428s]
+LogShaderCompilers: Display: Worker (15/17) finished batch of 10 jobs in 70.116s, FDiaphragmDOFGatherCS [WorkerTime=39.227s], FPersistentClusterCull_CS [WorkerTime=13.638s], FPersistentClusterCull_CS [WorkerTime=13.237s], FInstanceCull_CS [WorkerTime=1.129s], FVisBufferShadingCS [WorkerTime=0.883s], FVisBufferShadingCS [WorkerTime=0.575s], FVisBufferShadingCS [WorkerTime=0.527s], FTonemapCS [WorkerTime=0.357s], TSlateElementPSRoundedBoxtruetruefalseA [WorkerTime=0.310s], FEmitCubemapShadowVS [WorkerTime=0.140s]
+LogShaderCompilers: Display: Worker (1/17) finished batch of 10 jobs in 63.502s, FPersistentClusterCull_CS [WorkerTime=26.490s], FPersistentClusterCull_CS [WorkerTime=24.839s], FInstanceCull_CS [WorkerTime=5.719s], FCompactViewsVSM_CS [WorkerTime=1.298s], FInstanceCull_CS [WorkerTime=1.269s], FInstanceCull_CS [WorkerTime=1.188s], FEmitEditorSelectionDepthPS [WorkerTime=1.045s], FDiaphragmDOFCocDilateCS [WorkerTime=0.794s], FSlatePostProcessBlurPS [WorkerTime=0.379s], FTonemapCS [WorkerTime=0.370s]
+LogShaderCompilers: Display: Worker (9/17) finished batch of 10 jobs in 63.756s, FDiaphragmDOFGatherCS [WorkerTime=46.365s], FInstanceCull_CS [WorkerTime=4.460s], FInstanceCullVSM_CS [WorkerTime=4.173s], FInstanceCullVSM_CS [WorkerTime=3.408s], FInstanceCull_CS [WorkerTime=2.281s], FCompositeLUTGenerationPS [WorkerTime=1.099s], FRenderCameraAerialPerspectiveVolumeCS [WorkerTime=0.664s], FSubsurfaceIndirectDispatchCS [WorkerTime=0.599s], TGPUSkinCacheCS<22> [WorkerTime=0.359s], FTonemapCS [WorkerTime=0.212s]
+LogShaderCompilers: Display: Worker (11/17) finished batch of 10 jobs in 63.970s, FPersistentClusterCull_CS [WorkerTime=22.728s], FPersistentClusterCull_CS [WorkerTime=18.483s], FPersistentClusterCull_CS [WorkerTime=12.097s], FVolumetricFogLightScatteringCS [WorkerTime=3.230s], FMicropolyRasterizeCS [WorkerTime=2.976s], FEmitSceneDepthPS [WorkerTime=1.407s], FMicropolyRasterizeCS [WorkerTime=1.189s], FMicropolyRasterizeCS [WorkerTime=1.143s], FTonemapCS [WorkerTime=0.326s], FStereoLayerPS_External [WorkerTime=0.212s]
+LogShaderCompilers: Display: Worker (8/17) finished batch of 10 jobs in 96.425s, FPersistentClusterCull_CS [WorkerTime=30.869s], FPersistentClusterCull_CS [WorkerTime=24.178s], FPersistentClusterCull_CS [WorkerTime=19.265s], FPersistentClusterCull_CS [WorkerTime=11.021s], FMicropolyRasterizeCS [WorkerTime=5.229s], FInstanceCull_CS [WorkerTime=2.705s], FMicropolyRasterizeCS [WorkerTime=2.015s], FTonemapCS [WorkerTime=0.454s], FComposeVolumetricRTOverScenePS [WorkerTime=0.268s], FCopyTexture2DCS [WorkerTime=0.234s]
+LogShaderCompilers: Display: Worker (14/17) finished batch of 10 jobs in 501.987s, FClusteredShadingPS [WorkerTime=482.494s], FMicropolyRasterizeCS [WorkerTime=7.013s], FLumenVisualizeHardwareRayTracingRGS [WorkerTime=4.396s], FClusteredShadingPS [WorkerTime=4.034s], FAmbientOcclusionPS [WorkerTime=1.393s], FHairInterpolationCS [WorkerTime=1.167s], FAmbientOcclusionPS [WorkerTime=0.691s], FAmbientOcclusionCS [WorkerTime=0.385s], FDeferredDecalVS [WorkerTime=0.217s], FVoxelMarkValidPageIndex_ScatterCS [WorkerTime=0.127s]
+LogShaderCompilers: Display: Worker (2/17) finished batch of 10 jobs in 115.086s, FPersistentClusterCull_CS [WorkerTime=21.360s], FPersistentClusterCull_CS [WorkerTime=20.342s], FPersistentClusterCull_CS [WorkerTime=19.207s], FPersistentClusterCull_CS [WorkerTime=14.507s], FPersistentClusterCull_CS [WorkerTime=13.864s], FPersistentClusterCull_CS [WorkerTime=10.669s], FPersistentClusterCull_CS [WorkerTime=9.771s], FInstanceCullVSM_CS [WorkerTime=2.598s], FInstanceCullVSM_CS [WorkerTime=2.467s], FUpdateTexture2DSubresouceCS [WorkerTime=0.225s]
+LogShaderCompilers: Display: Worker (16/17) finished batch of 10 jobs in 66.229s, FDiaphragmDOFGatherCS [WorkerTime=44.515s], FDiaphragmDOFGatherCS [WorkerTime=6.457s], FPhysicsFieldRayMarchingCS [WorkerTime=6.269s], FRadixSortDownsweepCS [WorkerTime=6.155s], FVolumetricFogLightScatteringCS [WorkerTime=1.168s], FDiaphragmDOFRecombineCS [WorkerTime=0.418s], FDiaphragmDOFRecombineCS [WorkerTime=0.417s], FDiaphragmDOFCocDilateCS [WorkerTime=0.397s], FSubsurfaceIndirectDispatchCS [WorkerTime=0.226s], FFilterCS [WorkerTime=0.123s]
+LogShaderCompilers: Display: Worker (4/17) finished batch of 10 jobs in 72.455s, FDiaphragmDOFGatherCS [WorkerTime=38.478s], FDiaphragmDOFGatherCS [WorkerTime=25.461s], FSubsurfaceIndirectDispatchCS [WorkerTime=2.467s], FDiaphragmDOFGatherCS [WorkerTime=2.006s], FRayTracingGlobalIlluminationCreateGatherPointsRGS [WorkerTime=1.954s], FDiaphragmDOFGatherCS [WorkerTime=1.199s], FDeviceEncodingOnlyPS [WorkerTime=0.469s], FRecomputeTangentsPerTrianglePassCS<1> [WorkerTime=0.164s], FPopulateEditorDepthPS [WorkerTime=0.100s], FDiaphragmDOFPostfilterCS [WorkerTime=0.095s]
+LogShaderCompilers: Display: Worker (13/17) finished batch of 10 jobs in 89.582s, FDiaphragmDOFGatherCS [WorkerTime=30.593s], FDiaphragmDOFGatherCS [WorkerTime=23.148s], FDiaphragmDOFGatherCS [WorkerTime=17.143s], FDiaphragmDOFGatherCS [WorkerTime=13.507s], FDiaphragmDOFGatherCS [WorkerTime=2.189s], FSubsurfaceIndirectDispatchCS [WorkerTime=1.174s], FLUTBlenderPS [WorkerTime=0.845s], FDiaphragmDOFReduceCS [WorkerTime=0.348s], FPhysicsFieldRayMarchingCS [WorkerTime=0.272s], FRecomputeTangentsPerTrianglePassCS<3> [WorkerTime=0.242s]
+LogShaderCompilers: Display: Worker (1/17) finished batch of 10 jobs in 139.692s, FDiaphragmDOFGatherCS [WorkerTime=43.110s], FDiaphragmDOFGatherCS [WorkerTime=38.911s], FDiaphragmDOFGatherCS [WorkerTime=28.784s], FDiaphragmDOFGatherCS [WorkerTime=25.752s], FDiaphragmDOFGatherCS [WorkerTime=2.029s], TGPUSkinCacheCS<54> [WorkerTime=0.421s], FDiaphragmDOFRecombineCS [WorkerTime=0.184s], FDiaphragmDOFRecombineCS [WorkerTime=0.153s], FDiaphragmDOFPostfilterCS [WorkerTime=0.117s], FFilterPS [WorkerTime=0.116s]
+LogShaderCompilers: Display: Worker (3/17) finished batch of 10 jobs in 62.740s, FShadingFurnaceTestPassPS [WorkerTime=42.376s], FSSDTemporalAccumulationCS [WorkerTime=7.174s], FSSDTemporalAccumulationCS [WorkerTime=6.886s], FSSDSpatialAccumulationCS [WorkerTime=1.886s], FVolumetricFogLightScatteringCS [WorkerTime=1.353s], FSSDSpatialAccumulationCS [WorkerTime=1.144s], FSSDSpatialAccumulationCS [WorkerTime=0.946s], FShadowProjectionPS4falsetruefalse [WorkerTime=0.430s], FRenderSkyViewLutCS [WorkerTime=0.296s], FShadowProjectionPS2falsefalsetrue [WorkerTime=0.164s]
+LogShaderCompilers: Display: ================================================
+LogShaderCompilers: Display: === FShaderJobCache stats ===
+LogShaderCompilers: Display: Total job queries 5588, among them cache hits 0 (0.00%)
+LogShaderCompilers: Display: Tracking 5588 distinct input hashes that result in 4317 distinct outputs (77.25%)
+LogShaderCompilers: Display: RAM used: 18.97 MB (0.02 GB) of 819.20 MB (0.80 GB) budget. Usage: 2.32%
+LogShaderCompilers: Display: === Shader Compilation stats ===
+LogShaderCompilers: Display: Shaders Compiled: 5588
+LogShaderCompilers: Display: Jobs assigned 5588, completed 5588 (100.00%)
+LogShaderCompilers: Display: Average time worker was idle: 0.00 s
+LogShaderCompilers: Display: Time job spent in pending queue: average 340.55 s, longest 627.48 s
+LogShaderCompilers: Display: Job execution time: average 19.00 s, max 501.99 s
+LogShaderCompilers: Display: Job life time (pending + execution): average 359.54 s, max 654.12
+LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 654.12 s
+LogShaderCompilers: Display: Jobs were issued in 590 batches (only local compilation was used), average 9.47 jobs/batch
+LogShaderCompilers: Display: Average processing rate: 8.54 jobs/sec
+LogShaderCompilers: Display: Effective parallelization: 16.32 (times faster than compiling all shaders on one thread). Compare with number of workers: 17
+LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+LogShaderCompilers: Display:                                          FClusteredShadingPS (compiled    4 times, average 198.59 sec, max 482.49 sec, min 4.03 sec)
+LogShaderCompilers: Display:                                    FShadingFurnaceTestPassPS (compiled    1 times, average 42.38 sec, max 42.38 sec, min 42.38 sec)
+LogShaderCompilers: Display:                                  FOITSortTriangleIndex_Debug (compiled    1 times, average 29.00 sec, max 29.00 sec, min 29.00 sec)
+LogShaderCompilers: Display:                                              FVisualizeHDRPS (compiled    1 times, average 26.42 sec, max 26.42 sec, min 26.42 sec)
+LogShaderCompilers: Display:                                       FTranscodePageToGPU_CS (compiled    1 times, average 24.09 sec, max 24.09 sec, min 24.09 sec)
+LogShaderCompilers: Display: Top 5 shader types by total compile time:
+LogShaderCompilers: Display:                                    FPersistentClusterCull_CS - 9.47% of total time (compiled   48 times, average 21.07 sec, max 40.95 sec, min 9.77 sec)
+LogShaderCompilers: Display:                                          FClusteredShadingPS - 7.44% of total time (compiled    4 times, average 198.59 sec, max 482.49 sec, min 4.03 sec)
+LogShaderCompilers: Display:                                             FInstanceCull_CS - 6.81% of total time (compiled  320 times, average 2.27 sec, max 8.24 sec, min 0.63 sec)
+LogShaderCompilers: Display:                                        FDiaphragmDOFGatherCS - 6.53% of total time (compiled   41 times, average 17.02 sec, max 46.36 sec, min 0.80 sec)
+LogShaderCompilers: Display:                                             FDeferredLightPS - 5.00% of total time (compiled  102 times, average 5.23 sec, max 19.07 sec, min 0.70 sec)
+LogShaderCompilers: Display: ================================================
+LogShaderCompilers: Display: ================================================
+LogShaderCompilers: Display: === FShaderJobCache stats ===
+LogShaderCompilers: Display: Total job queries 11206, among them cache hits 0 (0.00%)
+LogShaderCompilers: Display: Tracking 11206 distinct input hashes that result in 8707 distinct outputs (77.70%)
+LogShaderCompilers: Display: RAM used: 54.51 MB (0.05 GB) of 819.20 MB (0.80 GB) budget. Usage: 6.65%
+LogShaderCompilers: Display: === Shader Compilation stats ===
+LogShaderCompilers: Display: Shaders Compiled: 11206
+LogShaderCompilers: Display: Jobs assigned 11206, completed 11206 (100.00%)
+LogShaderCompilers: Display: Average time worker was idle: 0.39 s
+LogShaderCompilers: Display: Time job spent in pending queue: average 201.01 s, longest 627.48 s
+LogShaderCompilers: Display: Job execution time: average 11.52 s, max 501.99 s
+LogShaderCompilers: Display: Job life time (pending + execution): average 212.53 s, max 654.12
+LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 792.33 s
+LogShaderCompilers: Display: Jobs were issued in 1182 batches (only local compilation was used), average 9.48 jobs/batch
+LogShaderCompilers: Display: Average processing rate: 14.14 jobs/sec
+LogShaderCompilers: Display: Effective parallelization: 16.35 (times faster than compiling all shaders on one thread). Compare with number of workers: 17
+LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+LogShaderCompilers: Display:                                          FClusteredShadingPS (compiled    8 times, average 102.17 sec, max 482.49 sec, min 1.61 sec)
+LogShaderCompilers: Display:                                    FShadingFurnaceTestPassPS (compiled    2 times, average 21.81 sec, max 42.38 sec, min 1.25 sec)
+LogShaderCompilers: Display:                                   FPhysicsFieldRayMarchingCS (compiled    8 times, average 17.80 sec, max 56.31 sec, min 0.27 sec)
+LogShaderCompilers: Display:                                  FOITSortTriangleIndex_Debug (compiled    2 times, average 14.63 sec, max 29.00 sec, min 0.27 sec)
+LogShaderCompilers: Display:                                              FVisualizeHDRPS (compiled    2 times, average 13.38 sec, max 26.42 sec, min 0.35 sec)
+LogShaderCompilers: Display: Top 5 shader types by total compile time:
+LogShaderCompilers: Display:                                    FPersistentClusterCull_CS - 8.42% of total time (compiled   96 times, average 11.36 sec, max 40.95 sec, min 1.27 sec)
+LogShaderCompilers: Display:                                             FInstanceCull_CS - 6.98% of total time (compiled  640 times, average 1.41 sec, max 8.24 sec, min 0.35 sec)
+LogShaderCompilers: Display:                                          FClusteredShadingPS - 6.31% of total time (compiled    8 times, average 102.17 sec, max 482.49 sec, min 1.61 sec)
+LogShaderCompilers: Display:                                        FDiaphragmDOFGatherCS - 5.55% of total time (compiled   82 times, average 8.76 sec, max 46.36 sec, min 0.25 sec)
+LogShaderCompilers: Display:                                             FDeferredLightPS - 5.07% of total time (compiled  204 times, average 3.22 sec, max 19.07 sec, min 0.70 sec)
+LogShaderCompilers: Display: ================================================
+LogShaderLibrary: Display: 
+LogShaderLibrary: Display: Shader Library 'Global' (PCD3D_SM5) Stats:
+LogShaderLibrary: Display: =================
+LogShaderLibrary: Display: Assets: 0, Unique Shadermaps: 390 (0.00%)
+LogShaderLibrary: Display: Total Shaders: 4330, Unique Shaders: 4316 (99.68%)
+LogShaderLibrary: Display: Total Shader Size: 15.56mb, Unique Shaders Size: 15.56mb (99.97%)
+LogShaderLibrary: Display: === Extended info:
+LogShaderLibrary: Display: Minimum number of shaders in shadermap: 1
+LogShaderLibrary: Display: Median number of shaders in shadermap: 3
+LogShaderLibrary: Display: Maximum number of shaders in shadermap: 365
+LogShaderLibrary: Display: Number of shadermaps referencing top 10 most shared shaders:
+LogShaderLibrary: Display:     4, 3, 2, 2, 2, 2, 2, 2, 2, 2
+LogShaderLibrary: Display: Textual dump saved to '../../../../../../Users/nusra/OneDrive/Desktop/GIT LIVE VERSION/LSS_RT_PS/Saved/Shaders/PCD3D_SM5/ShaderDebug-Global-PCD3D_SM5/Dump.txt'
+LogShaderLibrary: Display: =================
+LogShaderLibrary: Display: 
+LogShaderLibrary: Display: Shader Library 'Global' (PCD3D_SM6) Stats:
+LogShaderLibrary: Display: =================
+LogShaderLibrary: Display: Assets: 0, Unique Shadermaps: 390 (0.00%)
+LogShaderLibrary: Display: Total Shaders: 4391, Unique Shaders: 4390 (99.98%)
+LogShaderLibrary: Display: Total Shader Size: 31.66mb, Unique Shaders Size: 31.65mb (99.99%)
+LogShaderLibrary: Display: === Extended info:
+LogShaderLibrary: Display: Minimum number of shaders in shadermap: 1
+LogShaderLibrary: Display: Median number of shaders in shadermap: 3
+LogShaderLibrary: Display: Maximum number of shaders in shadermap: 365
+LogShaderLibrary: Display: Number of shadermaps referencing top 10 most shared shaders:
+LogShaderLibrary: Display:     2, 1, 1, 1, 1, 1, 1, 1, 1, 1
+LogShaderLibrary: Display: Textual dump saved to '../../../../../../Users/nusra/OneDrive/Desktop/GIT LIVE VERSION/LSS_RT_PS/Saved/Shaders/PCD3D_SM6/ShaderDebug-Global-PCD3D_SM6/Dump.txt'
+LogShaderLibrary: Display: =================
+LogPackageUtilities: Searching using wildcard: '../../../Engine/Content/*.uasset'
+LogPackageUtilities: Searching using wildcard: '../../../../../../Users/nusra/OneDrive/Desktop/GIT LIVE VERSION/LSS_RT_PS/Content/*.uasset'
+LogPackageUtilities: Searching using wildcard: '../../../Engine/Plugins/Bridge/Content/*.uasset'
+LogPackageUtilities: Searching using wildcard: '../../../Engine/Plugins/2D/Paper2D/Content/*.uasset'
+LogPackageUtilities: Searching using wildcard: '../../../Engine/Plugins/Animation/ControlRigSpline/Content/*.uasset'
+LogPackageUtilities: Searching using wildcard: '../../../Engine/Plugins/Animation/IKRig/Content/*.uasset'
+LogPackageUtilities: Searching using wildcard: '../../../Engine/Plugins/Animation/ControlRig/Content/*.uasset'
+LogPackageUtilities: Searching using wildcard: '../../../Engine/Plugins/Enterprise/DatasmithContent/Content/*.uasset'
+LogPackageUtilities: Searching using wildcard: '../../../Engine/Plugins/FX/Niagara/Content/*.uasset'
+LogPackageUtilities: Searching using wildcard: '../../../Engine/Plugins/Developer/AnimationSharing/Content/*.uasset'
+LogPackageUtilities: Searching using wildcard: '../../../Engine/Plugins/MovieScene/SequencerScripting/Content/*.uasset'
+LogPackageUtilities: Searching using wildcard: '../../../Engine/Plugins/Media/MediaCompositing/Content/*.uasset'
+LogPackageUtilities: Searching using wildcard: '../../../Engine/Plugins/Editor/ModelingToolsEditorMode/Content/*.uasset'
+LogPackageUtilities: Searching using wildcard: '../../../Engine/Plugins/Editor/GeometryMode/Content/*.uasset'
+LogPackageUtilities: Searching using wildcard: '../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/*.uasset'
+LogPackageUtilities: Searching using wildcard: '../../../Engine/Plugins/Runtime/AudioSynesthesia/Content/*.uasset'
+LogPackageUtilities: Searching using wildcard: '../../../Engine/Plugins/Experimental/ChaosClothEditor/Content/*.uasset'
+LogPackageUtilities: Searching using wildcard: '../../../Engine/Plugins/Experimental/ChaosNiagara/Content/*.uasset'
+LogPackageUtilities: Searching using wildcard: '../../../Engine/Plugins/Experimental/ChaosSolverPlugin/Content/*.uasset'
+LogPackageUtilities: Searching using wildcard: '../../../Engine/Plugins/Runtime/GeometryProcessing/Content/*.uasset'
+LogPackageUtilities: Searching using wildcard: '../../../Engine/Plugins/Runtime/HairStrands/Content/*.uasset'
+LogPackageUtilities: Searching using wildcard: '../../../Engine/Plugins/Runtime/MeshModelingToolset/Content/*.uasset'
+LogPackageUtilities: Searching using wildcard: '../../../Engine/Plugins/Experimental/FullBodyIK/Content/*.uasset'
+LogPackageUtilities: Searching using wildcard: '../../../Engine/Plugins/Experimental/GeometryCollectionPlugin/Content/*.uasset'
+LogPackageUtilities: Searching using wildcard: '../../../Engine/Plugins/Experimental/GeometryFlow/Content/*.uasset'
+LogPackageUtilities: Searching using wildcard: '../../../Engine/Plugins/Experimental/MeshModelingToolsetExp/Content/*.uasset'
+LogPackageUtilities: Searching using wildcard: '../../../Engine/Plugins/Experimental/MeshLODToolset/Content/*.uasset'
+LogPackageUtilities: Searching using wildcard: '../../../Engine/Plugins/Experimental/PythonScriptPlugin/Content/*.uasset'
+LogPackageUtilities: Searching using wildcard: '../../../Engine/Plugins/Experimental/StaticMeshEditorModeling/Content/*.uasset'
+LogPackageUtilities: Warning: Engine.ini:[Core.System]:Paths entry '../../../Engine/Plugins/Runtime/OpenXR/Content' is not mounted. Skipping it.
+LogPackageUtilities: Searching using wildcard: '../../../Engine/Plugins/Runtime/ResonanceAudio/Content/*.uasset'
+LogPackageUtilities: Searching using wildcard: '../../../Engine/Plugins/Runtime/Synthesis/Content/*.uasset'
+LogPackageUtilities: Warning: Engine.ini:[Core.System]:Paths entry '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content' is not mounted. Skipping it.
+LogPackageUtilities: Searching using wildcard: '../../../Engine/Plugins/Media/PixelStreaming/Content/*.uasset'
+LogPackageUtilities: Searching using wildcard: '../../../Engine/Content/*.umap'
+LogPackageUtilities: Searching using wildcard: '../../../../../../Users/nusra/OneDrive/Desktop/GIT LIVE VERSION/LSS_RT_PS/Content/*.umap'
+LogPackageUtilities: Searching using wildcard: '../../../Engine/Plugins/Bridge/Content/*.umap'
+LogPackageUtilities: Searching using wildcard: '../../../Engine/Plugins/2D/Paper2D/Content/*.umap'
+LogPackageUtilities: Searching using wildcard: '../../../Engine/Plugins/Animation/ControlRigSpline/Content/*.umap'
+LogPackageUtilities: Searching using wildcard: '../../../Engine/Plugins/Animation/IKRig/Content/*.umap'
+LogPackageUtilities: Searching using wildcard: '../../../Engine/Plugins/Animation/ControlRig/Content/*.umap'
+LogPackageUtilities: Searching using wildcard: '../../../Engine/Plugins/Enterprise/DatasmithContent/Content/*.umap'
+LogPackageUtilities: Searching using wildcard: '../../../Engine/Plugins/FX/Niagara/Content/*.umap'
+LogPackageUtilities: Searching using wildcard: '../../../Engine/Plugins/Developer/AnimationSharing/Content/*.umap'
+LogPackageUtilities: Searching using wildcard: '../../../Engine/Plugins/MovieScene/SequencerScripting/Content/*.umap'
+LogPackageUtilities: Searching using wildcard: '../../../Engine/Plugins/Media/MediaCompositing/Content/*.umap'
+LogPackageUtilities: Searching using wildcard: '../../../Engine/Plugins/Editor/ModelingToolsEditorMode/Content/*.umap'
+LogPackageUtilities: Searching using wildcard: '../../../Engine/Plugins/Editor/GeometryMode/Content/*.umap'
+LogPackageUtilities: Searching using wildcard: '../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/*.umap'
+LogPackageUtilities: Searching using wildcard: '../../../Engine/Plugins/Runtime/AudioSynesthesia/Content/*.umap'
+LogPackageUtilities: Searching using wildcard: '../../../Engine/Plugins/Experimental/ChaosClothEditor/Content/*.umap'
+LogPackageUtilities: Searching using wildcard: '../../../Engine/Plugins/Experimental/ChaosNiagara/Content/*.umap'
+LogPackageUtilities: Searching using wildcard: '../../../Engine/Plugins/Experimental/ChaosSolverPlugin/Content/*.umap'
+LogPackageUtilities: Searching using wildcard: '../../../Engine/Plugins/Runtime/GeometryProcessing/Content/*.umap'
+LogPackageUtilities: Searching using wildcard: '../../../Engine/Plugins/Runtime/HairStrands/Content/*.umap'
+LogPackageUtilities: Searching using wildcard: '../../../Engine/Plugins/Runtime/MeshModelingToolset/Content/*.umap'
+LogPackageUtilities: Searching using wildcard: '../../../Engine/Plugins/Experimental/FullBodyIK/Content/*.umap'
+LogPackageUtilities: Searching using wildcard: '../../../Engine/Plugins/Experimental/GeometryCollectionPlugin/Content/*.umap'
+LogPackageUtilities: Searching using wildcard: '../../../Engine/Plugins/Experimental/GeometryFlow/Content/*.umap'
+LogPackageUtilities: Searching using wildcard: '../../../Engine/Plugins/Experimental/MeshModelingToolsetExp/Content/*.umap'
+LogPackageUtilities: Searching using wildcard: '../../../Engine/Plugins/Experimental/MeshLODToolset/Content/*.umap'
+LogPackageUtilities: Searching using wildcard: '../../../Engine/Plugins/Experimental/PythonScriptPlugin/Content/*.umap'
+LogPackageUtilities: Searching using wildcard: '../../../Engine/Plugins/Experimental/StaticMeshEditorModeling/Content/*.umap'
+LogPackageUtilities: Warning: Engine.ini:[Core.System]:Paths entry '../../../Engine/Plugins/Runtime/OpenXR/Content' is not mounted. Skipping it.
+LogPackageUtilities: Searching using wildcard: '../../../Engine/Plugins/Runtime/ResonanceAudio/Content/*.umap'
+LogPackageUtilities: Searching using wildcard: '../../../Engine/Plugins/Runtime/Synthesis/Content/*.umap'
+LogPackageUtilities: Warning: Engine.ini:[Core.System]:Paths entry '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content' is not mounted. Skipping it.
+LogPackageUtilities: Searching using wildcard: '../../../Engine/Plugins/Media/PixelStreaming/Content/*.umap'
+LogCook: Warning: Unable to find package for cooking /Game/VRTemplate/Blueprints/VRGameMode
+LogCook: Display: Cooked packages 0 Packages Remain 865 Total 865
+LogCook: Display: Cook Diagnostics: OpenFileHandles=177, VirtualMemory=1435MiB
+LogCook: Display: Cooked packages 0 Packages Remain 766 Total 766
+LogMaterial: Display: Missing cached shadermap for ControlRigGizmoMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: C1AD677B3231AE76BA4744DF6D619DDF8A7C9703), compiling. 
+LogMaterial: Display: Missing cached shadermap for ControlRigGizmoMaterial in PCD3D_SM6, Default, SM6 (DDC key hash: 841DDE447BA5D5D54A87F3C9E10C804924AA4675), compiling. 
+LogTexture: Display: Texture Encode Speed: Final (cook).
+LogMaterial: Display: Missing cached shadermap for DebugEditorMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 17E7051BF7F37B3144DD82810D42D80C2ABD9CCE), compiling. 
+LogMaterial: Display: Missing cached shadermap for DebugEditorMaterial in PCD3D_SM6, Default, SM6 (DDC key hash: 20F1F7F41AFD2E841193C54BCFDA978E265DA155), compiling. 
+LogPackageLocalizationCache: Processed 32 localized package path(s) for 1 prioritized culture(s) in 0.008507 seconds
+LogTexture: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+LogMaterial: Display: Missing cached shadermap for GizmoMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 1819ED58F727126F9E954FCA04EDC72A9EE7083D), compiling. 
+LogMaterial: Display: Missing cached shadermap for GizmoMaterial in PCD3D_SM6, Default, SM6 (DDC key hash: 17EB4429AC395489386BF3ACE09C6701E4608C14), compiling. 
+LogMaterial: Display: Missing cached shadermap for DebugMeshMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 60991C47235F06DE5DE81F26EE2CA6E203064B57), compiling. 
+LogMaterial: Display: Missing cached shadermap for DebugMeshMaterial in PCD3D_SM6, Default, SM6 (DDC key hash: DA54F56161E6909C019ACD8E317B617D4AEDD715), compiling. 
+LogMaterial: Display: Missing cached shadermap for RemoveSurfaceMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: E50F8A3E55EC7B5070171682B27BF30B09004EF2), compiling. 
+LogMaterial: Display: Missing cached shadermap for RemoveSurfaceMaterial in PCD3D_SM6, Default, SM6 (DDC key hash: 1CA9636BA44EE460A36784D2CCA7DC4ECF9C181B), compiling. 
+LogMaterial: Display: Missing cached shadermap for HairMeshesDefaultMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 9113CE0C8C89DC6D6A5F9C5A8547372CD76BC534), compiling. 
+LogMaterial: Display: Missing cached shadermap for HairMeshesDefaultMaterial in PCD3D_SM6, Default, SM6 (DDC key hash: 5ADA70C66B6C877541313029F32756F908813B29), compiling. 
+LogMaterial: Display: Missing cached shadermap for HairCardsDefaultMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 8826CEF6FEB267EFAB96DA0C2E74ED430C8B3FB0), compiling. 
+LogMaterial: Display: Missing cached shadermap for HairCardsDefaultMaterial in PCD3D_SM6, Default, SM6 (DDC key hash: 817B929AF1977306F89277C1403FFB0BF56E6A1D), compiling. 
+LogMaterial: Display: Missing cached shadermap for HairDefaultMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 707F33491D0AA82984D017FDA6ADF7DA037CE0E3), compiling. 
+LogMaterial: Display: Missing cached shadermap for HairDefaultMaterial in PCD3D_SM6, Default, SM6 (DDC key hash: AEC9A2FF8ED2C327A2DAA04B7C8041EBD9391D7D), compiling. 
+LogShaderCompilers: Warning: Failed to compile Material /ControlRig/Controls/ControlRigGizmoMaterial.ControlRigGizmoMaterial for platform PCD3D_SM6, Default Material will be used in game.
+/Engine/Private/BasePassVertexShader.usf:25:1: error: Parameter with semantic SV_InstanceID has overlapping semantic index at 0.
+	void Main(
+	^
+D3DCompileToDxil failed. Error code: Unspecified err0r (0x80004005).
+
+LogMaterial: Display: Missing cached shadermap for M_SimpleUnlitTranslucent in PCD3D_SM5, Default, SM5 (DDC key hash: 19CD2EE208E7F39C086F2F16B37D134875D1FF38), compiling. 
+LogMaterial: Display: Missing cached shadermap for M_SimpleUnlitTranslucent in PCD3D_SM6, Default, SM6 (DDC key hash: 4FDF28AFD4CA92170580AEE1F6451A17F1F979CD), compiling. 
+LogMaterial: Display: Missing cached shadermap for CineMat in PCD3D_SM5, Default, SM5 (DDC key hash: FC70CB7E75FA70DD461E9995C5FCC3FDC32903AC), compiling. 
+LogMaterial: Display: Missing cached shadermap for CineMat in PCD3D_SM6, Default, SM6 (DDC key hash: D7164E5C2B414C7F911D450D2AF225AD39FF12A4), compiling. 
+LogMaterial: Display: Missing cached shadermap for Xray in PCD3D_SM5, Default, SM5 (DDC key hash: 63F8A522E8DB094AEAAB91AA3FA3E54957999990), compiling. 
+LogMaterial: Display: Missing cached shadermap for Xray in PCD3D_SM6, Default, SM6 (DDC key hash: 018CE00364C35D21274E5F9AAC2FE8B2E21C870A), compiling. 
+LogMaterial: Display: Missing cached shadermap for Main in PCD3D_SM5, Default, SM5 (DDC key hash: 92F0277C86F51AC20956B5142EF894A87739FBDB), compiling. 
+LogMaterial: Display: Missing cached shadermap for Main in PCD3D_SM6, Default, SM6 (DDC key hash: 18C58FF1B729D8E4AC64CB77A8A3544FC6A441B9), compiling. 
+LogMaterial: Display: Missing cached shadermap for TranslucentTransformGizmoMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: F5E4342A3C5FF8B7CB3D59973B4B5FBA2407ADA8), compiling. 
+LogMaterial: Display: Missing cached shadermap for TranslucentTransformGizmoMaterial in PCD3D_SM6, Default, SM6 (DDC key hash: E367320355AD8400DEA8E92CA887E5293863E58B), compiling. 
+LogMaterial: Display: Missing cached shadermap for DefaultLightFunctionMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 0C68C949760374938651EC533E770516FAA3E86F), compiling. 
+LogMaterial: Display: Missing cached shadermap for DefaultLightFunctionMaterial in PCD3D_SM6, Default, SM6 (DDC key hash: E611DF4176F47868291BACBFF6D03735340C4F54), compiling. 
+LogCook: Display: Cooked packages 78 Packages Remain 688 Total 766
+LogUObjectGlobals: Warning: [AssetLog] C:\Users\nusra\OneDrive\Desktop\GIT LIVE VERSION\LSS_RT_PS\Content\VRTemplate\Materials\MI_Projectile.uasset: Failed to load '/Game/VRTemplate/Materials/M_Projectile': Can't find file.
+LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/VRTemplate/Materials/M_Projectile'
+LogMaterial: Display: Missing cached shadermap for M_VRCursor in PCD3D_SM5, Default, SM5 (DDC key hash: 1191AA184AD4037B83375D5B92C9DA456AB22E3D), compiling. 
+LogMaterial: Display: Missing cached shadermap for M_VRCursor in PCD3D_SM6, Default, SM6 (DDC key hash: 9CECC19FE11BC9A875478A941605E010271180B6), compiling. 
+LogMaterial: Display: Missing cached shadermap for DefaultRibbonMaterial_NoGradient in PCD3D_SM5, Default, SM5 (DDC key hash: 5BCBB0397B4A3F366EC8A1852D4917B51FEDB874), compiling. 
+LogMaterial: Display: Missing cached shadermap for DefaultRibbonMaterial_NoGradient in PCD3D_SM6, Default, SM6 (DDC key hash: 9F1F80D863777724F93935030F1AC04DFA6959C2), compiling. 
+LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/VRTemplate/Maps/_GENERATED/Ant/Box_E5FE2CF9) ...
+LogMaterial: Display: Missing cached shadermap for ON1 in PCD3D_SM5, Default, SM5 (DDC key hash: A71D7AE0D321AFF402CFB058C7A797D188317052), compiling. 
+LogMaterial: Display: Missing cached shadermap for ON1 in PCD3D_SM6, Default, SM6 (DDC key hash: 73D4EB478EBB8FF1A41D880A1C4EFF304289247E), compiling. 
+LogMaterial: Display: Missing cached shadermap for OFF1 in PCD3D_SM5, Default, SM5 (DDC key hash: 13278991BADBF267F5BA76C16A1D821D256C3BD0), compiling. 
+LogMaterial: Display: Missing cached shadermap for OFF1 in PCD3D_SM6, Default, SM6 (DDC key hash: CE4EEC0B8AFB0F52030DA74C4B2FE0C17774AC5C), compiling. 
+LogMaterial: Display: Missing cached shadermap for Glass1 in PCD3D_SM5, Default, SM5 (DDC key hash: 33CBED51E92BD52ECC40AE4D49D8535C0DA81631), compiling. 
+LogMaterial: Display: Missing cached shadermap for Glass1 in PCD3D_SM6, Default, SM6 (DDC key hash: C96B83EFFDB89FB1F98796788BA2EF1B1D90E904), compiling. 
+LogMaterial: Display: Missing cached shadermap for BEAM1 in PCD3D_SM5, Default, SM5 (DDC key hash: B748887C3DC4C198CFD5D1087492711F105CB71B), compiling. 
+LogMaterial: Display: Missing cached shadermap for BEAM1 in PCD3D_SM6, Default, SM6 (DDC key hash: 5C7AB435FFBB28B061FD35EAA630F6DE59DB0F3A), compiling. 
+LogMaterial: Display: Missing cached shadermap for ONmat in PCD3D_SM5, Default, SM5 (DDC key hash: F5144C50294442084A16B8D438D34D643EF1F7B5), compiling. 
+LogMaterial: Display: Missing cached shadermap for ONmat in PCD3D_SM6, Default, SM6 (DDC key hash: ABF0DC40DE15D40AF282700D938EB5AE7F73C729), compiling. 
+LogMaterial: Display: Missing cached shadermap for OFFmat in PCD3D_SM5, Default, SM5 (DDC key hash: 69BF5902D2B4FA0C09960B2079F395852C6AD5CC), compiling. 
+LogMaterial: Display: Missing cached shadermap for OFFmat in PCD3D_SM6, Default, SM6 (DDC key hash: 6DE6304B73FC0DF4101F1283265E52924EE7D194), compiling. 
+LogMaterial: Display: Missing cached shadermap for BEAMmat in PCD3D_SM5, Default, SM5 (DDC key hash: FA2E8BC94B4DE74C1B37DA4CD87471037F1E15CF), compiling. 
+LogMaterial: Display: Missing cached shadermap for BEAMmat in PCD3D_SM6, Default, SM6 (DDC key hash: C83E1090EF2C73C719F5A16AD9792BC213D622A0), compiling. 
+LogMaterial: Display: Missing cached shadermap for LPO_yellow_001 in PCD3D_SM5, Default, SM5 (DDC key hash: ED648E95B66FD68CFDC210EDD88B91FF47D55D1A), compiling. 
+LogMaterial: Display: Missing cached shadermap for LPO_yellow_001 in PCD3D_SM6, Default, SM6 (DDC key hash: 1CBBA84CD77CF5FAC993C7DFB5ABC4590F44B833), compiling. 
+LogMaterial: Display: Missing cached shadermap for LPO_yellow in PCD3D_SM5, Default, SM5 (DDC key hash: DB129894D5B72202CF9E35C4F42BB310A2A45B05), compiling. 
+LogMaterial: Display: Missing cached shadermap for LPO_yellow in PCD3D_SM6, Default, SM6 (DDC key hash: 4095B7490CF5FF4FA5ED6CB70844ADA239008A49), compiling. 
+LogMaterial: Display: Missing cached shadermap for LPO_RED_001 in PCD3D_SM5, Default, SM5 (DDC key hash: DCB6F2FC90EE2361B65DC06310CC2E1AE0A67E84), compiling. 
+LogMaterial: Display: Missing cached shadermap for LPO_RED_001 in PCD3D_SM6, Default, SM6 (DDC key hash: 29F50D0050F9F847CF59BE52E3C9FAA9130AD599), compiling. 
+LogMaterial: Display: Missing cached shadermap for LPO_RED1 in PCD3D_SM5, Default, SM5 (DDC key hash: 5F893B5BC092DA3142752FB6D06B95F72542867A), compiling. 
+LogMaterial: Display: Missing cached shadermap for LPO_RED1 in PCD3D_SM6, Default, SM6 (DDC key hash: 7A5790BE2B49F6ED614C6BCBB704457BC595955B), compiling. 
+LogMaterial: Display: Missing cached shadermap for LPO_RED in PCD3D_SM5, Default, SM5 (DDC key hash: D20B55FDEDF678EE2FF6F23921AE70B8D814BC61), compiling. 
+LogMaterial: Display: Missing cached shadermap for LPO_RED in PCD3D_SM6, Default, SM6 (DDC key hash: 6EFB9C867B58B2B44F3A448AB795C30DC1244A24), compiling. 
+LogMaterial: Display: Missing cached shadermap for LPO_GREY_BOX_001 in PCD3D_SM5, Default, SM5 (DDC key hash: 1815A7251F2755F627912F851AF38C3DCCC2EAE1), compiling. 
+LogMaterial: Display: Missing cached shadermap for LPO_GREY_BOX_001 in PCD3D_SM6, Default, SM6 (DDC key hash: 3655562FBBC379C32D2CBDCE67CF2556CEDD795B), compiling. 
+LogMaterial: Display: Missing cached shadermap for LPO_GREY_BOX in PCD3D_SM5, Default, SM5 (DDC key hash: 3A82AF74F3566F09682963B352E10520B28E40ED), compiling. 
+LogMaterial: Display: Missing cached shadermap for LPO_GREY_BOX in PCD3D_SM6, Default, SM6 (DDC key hash: 254BA91B2A6E78DA1F262E16DC390902D43FDD61), compiling. 
+LogMaterial: Warning: Cooking a material resource (in ControlRigGizmoMaterial hierarchy) that doesn't have a valid ShaderMap! Shadermap pointer is null.
+LogMaterial: Display: Missing cached shadermap for White_Matte in PCD3D_SM5, Default, SM5 (DDC key hash: 1C423A93A857E58B0CC242D087F5E65785A46A45), compiling. 
+LogMaterial: Display: Missing cached shadermap for White_Matte in PCD3D_SM6, Default, SM6 (DDC key hash: 30165F8C3DA2ECA8BDE950CC9773DA4A7405E95C), compiling. 
+LogMaterial: Display: Missing cached shadermap for Gray_Paint in PCD3D_SM5, Default, SM5 (DDC key hash: A70EC30C4E654B36152195CEE520A06CB33EB3D0), compiling. 
+LogMaterial: Display: Missing cached shadermap for Gray_Paint in PCD3D_SM6, Default, SM6 (DDC key hash: 777A7A0334D23967450021C3D1B0A700A24F813C), compiling. 
+LogMaterial: Display: Missing cached shadermap for Gray_matte_shiny in PCD3D_SM5, Default, SM5 (DDC key hash: 755449F14CC030A9000E60EFDDE9DB3A39D325E1), compiling. 
+LogMaterial: Display: Missing cached shadermap for Gray_matte_shiny in PCD3D_SM6, Default, SM6 (DDC key hash: F8D5AC07EB0106535E1BDC832A8078C2346436DD), compiling. 
+LogMaterial: Display: Missing cached shadermap for Gray_Matte_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 855BBD72F80DB0B072F8B974E61C5A3EE4DB2251), compiling. 
+LogMaterial: Display: Missing cached shadermap for Gray_Matte_2 in PCD3D_SM6, Default, SM6 (DDC key hash: 77AB5D7BCABDC56C7B735C56EEC1DAFF103E8A10), compiling. 
+LogMaterial: Display: Missing cached shadermap for Black_Matte in PCD3D_SM5, Default, SM5 (DDC key hash: 10A1DA87BD22DA283C47F8446270806411D4CD85), compiling. 
+LogMaterial: Display: Missing cached shadermap for Black_Matte in PCD3D_SM6, Default, SM6 (DDC key hash: F0633D877DE340D6FD3493C416F69704F8455D1B), compiling. 
+LogMaterial: Display: Missing cached shadermap for Yellow_Matte in PCD3D_SM5, Default, SM5 (DDC key hash: BB8396B0D604A4074AD7E94E24AD2B6DF5E63BA7), compiling. 
+LogMaterial: Display: Missing cached shadermap for Yellow_Matte in PCD3D_SM6, Default, SM6 (DDC key hash: 11F2382EC0583BEBAEAA5EAFCB4ED74160B567E6), compiling. 
+LogMaterial: Display: Missing cached shadermap for White_Matte_2 in PCD3D_SM5, Default, SM5 (DDC key hash: D39D295737BE467CEC0202F8560E7CA80657614C), compiling. 
+LogMaterial: Display: Missing cached shadermap for White_Matte_2 in PCD3D_SM6, Default, SM6 (DDC key hash: 28F6C208383B20FF653300531171B36137D1A77C), compiling. 
+LogMaterial: Display: Missing cached shadermap for White_Matte_002 in PCD3D_SM5, Default, SM5 (DDC key hash: 4F8EF090DEF64727FFF8FD2F21C8F84A9C614AF3), compiling. 
+LogMaterial: Display: Missing cached shadermap for White_Matte_002 in PCD3D_SM6, Default, SM6 (DDC key hash: 6457EBAE4CEAEF5B405669F33F25ABFC919E2D3A), compiling. 
+LogMaterial: Display: Missing cached shadermap for White_Matte_001 in PCD3D_SM5, Default, SM5 (DDC key hash: 82F57CE4B60650F1284BE21A82B9CB0B6EDEE42A), compiling. 
+LogMaterial: Display: Missing cached shadermap for White_Matte_001 in PCD3D_SM6, Default, SM6 (DDC key hash: 837085C70FB49775F5DF00259CA02F1078370BFA), compiling. 
+LogMaterial: Display: Missing cached shadermap for White_Matte in PCD3D_SM5, Default, SM5 (DDC key hash: D11CF8218A45DF64A1EF8333EE4AEDF478E6190C), compiling. 
+LogMaterial: Display: Missing cached shadermap for White_Matte in PCD3D_SM6, Default, SM6 (DDC key hash: 255F32713488BD019576DA6071B9145C285F29E3), compiling. 
+LogMaterial: Display: Missing cached shadermap for Screen_003 in PCD3D_SM5, Default, SM5 (DDC key hash: A7F68FEF8A83EC1A075E39AD780B2F76E3F7D875), compiling. 
+LogMaterial: Display: Missing cached shadermap for Screen_003 in PCD3D_SM6, Default, SM6 (DDC key hash: 6FC088450C4665712A346C2A653300A06D96C97D), compiling. 
+LogMaterial: Display: Missing cached shadermap for Screen in PCD3D_SM5, Default, SM5 (DDC key hash: C96724788D562B1644B21160BEB2055136ECB041), compiling. 
+LogMaterial: Display: Missing cached shadermap for Screen in PCD3D_SM6, Default, SM6 (DDC key hash: 4FED95F6F4B0744AEB0EF9FD3E4785C7C5DB07FC), compiling. 
+LogMaterial: Display: Missing cached shadermap for Rubber in PCD3D_SM5, Default, SM5 (DDC key hash: FD96DA9CA657B0D61059C107023D20BBF2160FAC), compiling. 
+LogMaterial: Display: Missing cached shadermap for Rubber in PCD3D_SM6, Default, SM6 (DDC key hash: 2695CED6152824A2E4BDC454CD74EA8FAA9F9DD3), compiling. 
+LogMaterial: Display: Missing cached shadermap for Red_Matte in PCD3D_SM5, Default, SM5 (DDC key hash: F69E69BA8F8904C7B336B0E606914EB703C565F5), compiling. 
+LogMaterial: Display: Missing cached shadermap for Red_Matte in PCD3D_SM6, Default, SM6 (DDC key hash: 2C108D8CE24DAF5632FFAF01CED05ACABB019A2A), compiling. 
+LogMaterial: Display: Missing cached shadermap for Gray_Paint in PCD3D_SM5, Default, SM5 (DDC key hash: 7551821148520D771680BF0F8C39C55826C2E94C), compiling. 
+LogMaterial: Display: Missing cached shadermap for Gray_Paint in PCD3D_SM6, Default, SM6 (DDC key hash: 6F0CC3AFBB924F39B9B83ACC51968557F6729C96), compiling. 
+LogMaterial: Display: Missing cached shadermap for Gray_matte_shiny in PCD3D_SM5, Default, SM5 (DDC key hash: C57C88DF7D16E7521913618DFE40FA9424FB5FE0), compiling. 
+LogMaterial: Display: Missing cached shadermap for Gray_matte_shiny in PCD3D_SM6, Default, SM6 (DDC key hash: 64E51CB7F99CAE3D9C940FDFEBBB0A4381F0C672), compiling. 
+LogCook: Display: Cooked packages 179 Packages Remain 587 Total 766
+LogMaterial: Display: Missing cached shadermap for Gray_Matte_2_002 in PCD3D_SM5, Default, SM5 (DDC key hash: 0FB4F323E4A6913C56F050F6B3918FC290EE9E5B), compiling. 
+LogMaterial: Display: Missing cached shadermap for Gray_Matte_2_002 in PCD3D_SM6, Default, SM6 (DDC key hash: AF094D3C867C12C5DB35306EFF38827F9E27272E), compiling. 
+LogMaterial: Display: Missing cached shadermap for Gray_Matte_2_001 in PCD3D_SM5, Default, SM5 (DDC key hash: 052B4E14F8F12A8E17CEF0EAC9F03C11C74ED264), compiling. 
+LogMaterial: Display: Missing cached shadermap for Gray_Matte_2_001 in PCD3D_SM6, Default, SM6 (DDC key hash: AC686E87E64CEEC0CE9986A210B56367EA6E53BE), compiling. 
+LogMaterial: Display: Missing cached shadermap for Gray_Matte_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 191649A166EE3A2CDC5E63B2B368267F6EA6CDFE), compiling. 
+LogMaterial: Display: Missing cached shadermap for Gray_Matte_2 in PCD3D_SM6, Default, SM6 (DDC key hash: 6824831E27E889703B528EAA3D8E3F548659807E), compiling. 
+LogMaterial: Display: Missing cached shadermap for Gray_Matte in PCD3D_SM5, Default, SM5 (DDC key hash: C037B84EE70D97D85A5A8FF30C3DD00B2C69F8CA), compiling. 
+LogMaterial: Display: Missing cached shadermap for Gray_Matte in PCD3D_SM6, Default, SM6 (DDC key hash: 9F362940FA3FFE0918FD5E7A087FDAE8063AC31A), compiling. 
+LogMaterial: Display: Missing cached shadermap for Glass1 in PCD3D_SM5, Default, SM5 (DDC key hash: CFF975DBAF9C84A9D8CD3C7C4624E490AB5C7712), compiling. 
+LogMaterial: Display: Missing cached shadermap for Glass1 in PCD3D_SM6, Default, SM6 (DDC key hash: C7259D7DC17A6663F4A06A9EADFE3886A4AEE6A3), compiling. 
+LogMaterial: Display: Missing cached shadermap for Blue_Matte in PCD3D_SM5, Default, SM5 (DDC key hash: 3D707E358F31CEF8CE27D63A57B346E06BFDFE24), compiling. 
+LogMaterial: Display: Missing cached shadermap for Blue_Matte in PCD3D_SM6, Default, SM6 (DDC key hash: 0C28CE212258D36330F15285594C43C5AEA97C11), compiling. 
+LogMaterial: Display: Missing cached shadermap for Blue_Light in PCD3D_SM5, Default, SM5 (DDC key hash: 05FCA26CE0C1052B583F810CE1EAB0272662F867), compiling. 
+LogMaterial: Display: Missing cached shadermap for Blue_Light in PCD3D_SM6, Default, SM6 (DDC key hash: 2D30A364168B042A68E9BEB4F887EFA74942F2EE), compiling. 
+LogMaterial: Display: Missing cached shadermap for Black_Matte in PCD3D_SM5, Default, SM5 (DDC key hash: 9C82E093D85EF2B3DA2E8FFB6CD1F69B7EBD4D69), compiling. 
+LogMaterial: Display: Missing cached shadermap for Black_Matte in PCD3D_SM6, Default, SM6 (DDC key hash: 4970DF9B39AFABCFAB45C7FE03B35CF1AA5929DA), compiling. 
+LogMaterial: Display: Missing cached shadermap for Aluminium in PCD3D_SM5, Default, SM5 (DDC key hash: 4A7BC0C22303EAD2BB630093BF5B4894647CB78F), compiling. 
+LogMaterial: Display: Missing cached shadermap for Aluminium in PCD3D_SM6, Default, SM6 (DDC key hash: 8F53CBEDBE5049307BED10CB060221973C1547D7), compiling. 
+LogMaterial: Display: Missing cached shadermap for Material_005 in PCD3D_SM5, Default, SM5 (DDC key hash: B238AA86AD6553CBE640C077DAAF5826D6B40701), compiling. 
+LogMaterial: Display: Missing cached shadermap for Material_005 in PCD3D_SM6, Default, SM6 (DDC key hash: 59529BF2E1D65D19F13D85A26742C205B4A5F70D), compiling. 
+LogMaterial: Display: Missing cached shadermap for Material_004 in PCD3D_SM5, Default, SM5 (DDC key hash: 375570BE27AF22145485FE8AC949F678F9C2016B), compiling. 
+LogMaterial: Display: Missing cached shadermap for Material_004 in PCD3D_SM6, Default, SM6 (DDC key hash: 5884F9441FE7CBA10F7D53146C353F806E28831C), compiling. 
+LogMaterial: Display: Missing cached shadermap for Material_002 in PCD3D_SM5, Default, SM5 (DDC key hash: CC32A41001D66A868AF291BE8F1F15345D8BC7D9), compiling. 
+LogMaterial: Display: Missing cached shadermap for Material_002 in PCD3D_SM6, Default, SM6 (DDC key hash: 0E0EE9FEC4297674CB7C2EDADC73F2DB96129AE7), compiling. 
+LogTexture: Display: Building textures: /Game/MSPresets/MSVTTextures/BlackPlaceholder.BlackPlaceholder (TFO_AutoDXT VT, 32X32 X1X1) (Required Memory Estimate: 0.019531 MB), EncodeSpeed: Final
+LogTexture: Display: Building textures: /Game/MSPresets/MSVTTextures/Placeholder_Normal.Placeholder_Normal (TFO_BC5 VT, 32X32 X1X1) (Required Memory Estimate: 0.019531 MB), EncodeSpeed: Final
+LogTexture: Display: Building textures: /Game/MSPresets/MSVTTextures/WhitePlaceholder.WhitePlaceholder (TFO_AutoDXT VT, 32X32 X1X1) (Required Memory Estimate: 0.019531 MB), EncodeSpeed: Final
+LogTexture: Display: Building textures: /Game/MSPresets/MSVTTextures/DefaultDiffuse.DefaultDiffuse (TFO_AutoDXT VT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Final
+LogMaterial: Display: Missing cached shadermap for M_Solid in PCD3D_SM5, Default, SM5 (DDC key hash: 838CF2658B7ED20636CF0031075210C54FB926C5), compiling. 
+LogMaterial: Display: Missing cached shadermap for M_Solid in PCD3D_SM6, Default, SM6 (DDC key hash: 45054503879CDF656291DB89B015B43B9635D58C), compiling. 
+LoadErrors: Error: Unable to load package '/Game/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01_N'. The end of package tag is not valid. Check that the file is of the expected type and not corrupted.
+LogCook: Error: Error loading C:/Users/nusra/OneDrive/Desktop/GIT LIVE VERSION/LSS_RT_PS/Content/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset!
+LoadErrors: Error: Unable to load package '/Game/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01_N'. The end of package tag is not valid. Check that the file is of the expected type and not corrupted.
+LogCook: Error: Error loading C:/Users/nusra/OneDrive/Desktop/GIT LIVE VERSION/LSS_RT_PS/Content/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset!
+LogMaterial: Display: Missing cached shadermap for BasicShapeMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 807A8B91DA789CDDD3C8E9989BB3D2939040235E), compiling. 
+LogMaterial: Display: Missing cached shadermap for BasicShapeMaterial in PCD3D_SM6, Default, SM6 (DDC key hash: E0D8D35211B428E20E78E6379A1F6B49C4ACE3DF), compiling. 
+LogCook: Display: Cooked packages 279 Packages Remain 486 Total 765
+LogMaterial: Display: Missing cached shadermap for FlattenMaterial_WS_Normal_VT in PCD3D_SM5, Default, SM5 (DDC key hash: 177C25F8BBD5B3215B4772DAF5793E5C31A1B79C), compiling. 
+LogMaterial: Display: Missing cached shadermap for FlattenMaterial_WS_Normal_VT in PCD3D_SM6, Default, SM6 (DDC key hash: A7824E22646315E0C5EF6C6B375D960C1926D06B), compiling. 
+LogMaterial: Display: Missing cached shadermap for FlattenMaterial_VT in PCD3D_SM5, Default, SM5 (DDC key hash: 0D43FE6639F21E10B23B5436252300A871EBF237), compiling. 
+LogMaterial: Display: Missing cached shadermap for FlattenMaterial_VT in PCD3D_SM6, Default, SM6 (DDC key hash: 6E4E5DCB279D409F1C6A53D760DB71373DEC911C), compiling. 
+LogMaterial: Display: Missing cached shadermap for FlattenMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 01DB9343265CDF6C3E8B8B0B42EE6F0BA68B4C43), compiling. 
+LogMaterial: Display: Missing cached shadermap for FlattenMaterial in PCD3D_SM6, Default, SM6 (DDC key hash: 0BB67DBCEEA2E6FFF9276C3A2D572009BF6EFE79), compiling. 
+LogMaterial: Display: Missing cached shadermap for M_InvalidLightmapSettings in PCD3D_SM5, Default, SM5 (DDC key hash: 890BF8B24AA0B98BC5427BBBF17B668FEE61140C), compiling. 
+LogMaterial: Display: Missing cached shadermap for M_InvalidLightmapSettings in PCD3D_SM6, Default, SM6 (DDC key hash: 0D6BC9159F5C842A8C5D3F8D512D383A6E915D82), compiling. 
+LogMaterial: Display: Missing cached shadermap for EmissiveMeshMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 79FD8E3E609C43A962A97B442450958035A31C6A), compiling. 
+LogMaterial: Display: Missing cached shadermap for EmissiveMeshMaterial in PCD3D_SM6, Default, SM6 (DDC key hash: 6E373DD60568969516377ACD8D14AFF8BA2E9F66), compiling. 
+LogMaterial: Display: Missing cached shadermap for M_VolumeRenderSphereTracePP in PCD3D_SM5, Default, SM5 (DDC key hash: 9D50587F3431CC954097076AEEB2AC45C22CEE29), compiling. 
+LogMaterial: Display: Missing cached shadermap for M_VolumeRenderSphereTracePP in PCD3D_SM6, Default, SM6 (DDC key hash: BE669315A76D7E67A2F667E8B97F51C27688A31F), compiling. 
+LogMaterial: Display: Missing cached shadermap for PhAT_JointLimitMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 04DEF51458EAFB5319C43AFF6B2BD874FF57B0A1), compiling. 
+LogMaterial: Display: Missing cached shadermap for PhAT_JointLimitMaterial in PCD3D_SM6, Default, SM6 (DDC key hash: 63944949574E029DF55632B8393BE8181D90F11D), compiling. 
+LogMaterial: Display: Missing cached shadermap for M_Manip in PCD3D_SM5, Default, SM5 (DDC key hash: 019B518789BCFAEB8CB016A3D99CECF4D33337EC), compiling. 
+LogMaterial: Display: Missing cached shadermap for M_Manip in PCD3D_SM6, Default, SM6 (DDC key hash: 1678DEA3DE0A5696FBF0BCE9CEEB2881297364B7), compiling. 
+LogMaterial: Display: Missing cached shadermap for DefaultSpriteMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: D4BB9B53A51389951C7052F8402510530B9AB196), compiling. 
+LogMaterial: Display: Missing cached shadermap for DefaultSpriteMaterial in PCD3D_SM6, Default, SM6 (DDC key hash: 6057377B892F7EC3BDD6412CF574EF06D27510ED), compiling. 
+LogMaterial: Display: Missing cached shadermap for TransformGizmoMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 96DFEDE97D73D1E4F9294E5C144F35FEB0FA650A), compiling. 
+LogMaterial: Display: Missing cached shadermap for TransformGizmoMaterial in PCD3D_SM6, Default, SM6 (DDC key hash: 6CD1B40618AF9CE322D5F71745B2FFA9021A121E), compiling. 
+LogMaterial: Display: Missing cached shadermap for WorldPartitionSpatialHashGridPreviewMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: A1BB64EA89B60730478BD463E9320840DFC70B1F), compiling. 
+LogMaterial: Display: Missing cached shadermap for WorldPartitionSpatialHashGridPreviewMaterial in PCD3D_SM6, Default, SM6 (DDC key hash: F109C404BB26036B60AB3547FF188B98895E4D51), compiling. 
+LogMaterial: Display: Missing cached shadermap for HairDebugMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 93EF7DC9ECA84660E3B0A2EB42890FF54407A478), compiling. 
+LogMaterial: Display: Missing cached shadermap for HairDebugMaterial in PCD3D_SM6, Default, SM6 (DDC key hash: 384C11FFA6B078C09FB90D7AB3BB518E4AA6765B), compiling. 
+LogMaterial: Display: Missing cached shadermap for m_SimpleVolumetricCloud in PCD3D_SM5, Default, SM5 (DDC key hash: 38E7E9ABA99673985F29F06AE1D3E2BD6B5BC2A8), compiling. 
+LogMaterial: Display: Missing cached shadermap for m_SimpleVolumetricCloud in PCD3D_SM6, Default, SM6 (DDC key hash: C6D12CF35EFCBE9A8ABC6BF1AC6BF65531177B25), compiling. 
+LogMaterial: Display: Missing cached shadermap for DefaultPostProcessMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 2EA0D9C14118D6788D2CD987FEDA180AB2EB49F6), compiling. 
+LogMaterial: Display: Missing cached shadermap for DefaultPostProcessMaterial in PCD3D_SM6, Default, SM6 (DDC key hash: 3D24B4F37A7098B4FE09F08761E4E67C4C14314B), compiling. 
+LogMaterial: Display: Missing cached shadermap for DefaultDeferredDecalMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 97B4E7FE520391FE5A1F3EB3108E3ED90838BED5), compiling. 
+LogMaterial: Display: Missing cached shadermap for DefaultDeferredDecalMaterial in PCD3D_SM6, Default, SM6 (DDC key hash: 1DD89A0F254379CA0D59CBA6285FD2EC74A6FE71), compiling. 
+LogMaterial: Display: Missing cached shadermap for DefaultMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 9A4953796BC019578FF81A91AFF25EEF93427E3B), compiling. 
+LogMaterial: Display: Missing cached shadermap for DefaultMaterial in PCD3D_SM6, Default, SM6 (DDC key hash: 4F30FF59615464B1FB902C7D9ED15156E28504F4), compiling. 
+LogMaterial: Display: Missing cached shadermap for WorldGridMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 3633DAECD2465219F42272D19C238D827F1EDEC1), compiling. Is special engine material.
+LogMaterial: Display: Missing cached shadermap for WorldGridMaterial in PCD3D_SM6, Default, SM6 (DDC key hash: F8C770CA36ADFD7A4B283AE4F2FEB40D0C834F6E), compiling. Is special engine material.
+LogCook: Display: Cooked packages 340 Packages Remain 425 Total 765
+LogShaderCompilers: Warning: Failed to compile Material /HairStrands/Materials/HairCardsDefaultMaterial.HairCardsDefaultMaterial for platform PCD3D_SM6, Default Material will be used in game.
+/Engine/Private/BasePassVertexShader.usf:25:1: error: Parameter with semantic SV_InstanceID has overlapping semantic index at 0.
+	void Main(
+	^
+D3DCompileToDxil failed. Error code: Unspecified err0r (0x80004005).
+/Engine/Private/DepthOnlyVertexShader.usf:32:1: error: Parameter with semantic SV_InstanceID has overlapping semantic index at 0.
+	void Main(
+	^
+RemoveUnusedOutputs.usf:10:1: error: Parameter with semantic SV_InstanceID has overlapping semantic index at 0.
+	FOptimizedReturn Main__OPTIMIZED(FVertexFactoryInput Input, uint InstanceId : SV_InstanceID )
+	^
+
+LogShaderCompilers: Warning: Failed to compile Material /Game/VRTemplate/Materials/M_VRCursor.M_VRCursor for platform PCD3D_SM6, Default Material will be used in game.
+/Engine/Private/BasePassVertexShader.usf:25:1: error: Parameter with semantic SV_InstanceID has overlapping semantic index at 0.
+	void Main(
+	^
+D3DCompileToDxil failed. Error code: Unspecified err0r (0x80004005).
+
+LogBlueprint: Error: [AssetLog] C:\Users\nusra\OneDrive\Desktop\GIT LIVE VERSION\LSS_RT_PS\Content\VRTemplate\Blueprints\GrabComponent.uasset: [Compiler] Message node  Invalid Message Node  has an invalid interface. from Source: /Game/VRTemplate/Blueprints/GrabComponent.GrabComponent
+LogBlueprint: Error: [AssetLog] C:\Users\nusra\OneDrive\Desktop\GIT LIVE VERSION\LSS_RT_PS\Content\VRTemplate\Blueprints\GrabComponent.uasset: [Compiler] In use pin  <Unnamed>  no longer exists on node  Invalid Message Node . Please refresh node or break links to remove pin. from Source: /Game/VRTemplate/Blueprints/GrabComponent.GrabComponent
+LogBlueprint: Error: [AssetLog] C:\Users\nusra\OneDrive\Desktop\GIT LIVE VERSION\LSS_RT_PS\Content\VRTemplate\Blueprints\GrabComponent.uasset: [Compiler] In use pin  Target  no longer exists on node  Invalid Message Node . Please refresh node or break links to remove pin. from Source: /Game/VRTemplate/Blueprints/GrabComponent.GrabComponent
+LogBlueprint: Error: [AssetLog] C:\Users\nusra\OneDrive\Desktop\GIT LIVE VERSION\LSS_RT_PS\Content\VRTemplate\Blueprints\GrabComponent.uasset: [Compiler] Could not find a function named "TriggerPressed" in 'GrabComponent'.
+Make sure 'GrabComponent' has been compiled for  Invalid Message Node from Source: /Game/VRTemplate/Blueprints/GrabComponent.GrabComponent
+LogBlueprint: Error: [AssetLog] C:\Users\nusra\OneDrive\Desktop\GIT LIVE VERSION\LSS_RT_PS\Content\VRTemplate\Blueprints\GrabComponent.uasset: [Compiler] Message node  Invalid Message Node  has an invalid interface. from Source: /Game/VRTemplate/Blueprints/GrabComponent.GrabComponent
+LogBlueprint: Error: [AssetLog] C:\Users\nusra\OneDrive\Desktop\GIT LIVE VERSION\LSS_RT_PS\Content\VRTemplate\Blueprints\GrabComponent.uasset: [Compiler] In use pin  <Unnamed>  no longer exists on node  Invalid Message Node . Please refresh node or break links to remove pin. from Source: /Game/VRTemplate/Blueprints/GrabComponent.GrabComponent
+LogBlueprint: Error: [AssetLog] C:\Users\nusra\OneDrive\Desktop\GIT LIVE VERSION\LSS_RT_PS\Content\VRTemplate\Blueprints\GrabComponent.uasset: [Compiler] In use pin  Target  no longer exists on node  Invalid Message Node . Please refresh node or break links to remove pin. from Source: /Game/VRTemplate/Blueprints/GrabComponent.GrabComponent
+LogBlueprint: Error: [AssetLog] C:\Users\nusra\OneDrive\Desktop\GIT LIVE VERSION\LSS_RT_PS\Content\VRTemplate\Blueprints\GrabComponent.uasset: [Compiler] Could not find a function named "TriggerReleased" in 'GrabComponent'.
+Make sure 'GrabComponent' has been compiled for  Invalid Message Node from Source: /Game/VRTemplate/Blueprints/GrabComponent.GrabComponent
+LogBlueprint: Error: [AssetLog] C:\Users\nusra\OneDrive\Desktop\GIT LIVE VERSION\LSS_RT_PS\Content\VRTemplate\Blueprints\GrabComponent.uasset: [Compiler] Message node  Invalid Message Node  has an invalid interface. from Source: /Game/VRTemplate/Blueprints/GrabComponent.GrabComponent
+LogBlueprint: Error: [AssetLog] C:\Users\nusra\OneDrive\Desktop\GIT LIVE VERSION\LSS_RT_PS\Content\VRTemplate\Blueprints\GrabComponent.uasset: [Compiler] In use pin  <Unnamed>  no longer exists on node  Invalid Message Node . Please refresh node or break links to remove pin. from Source: /Game/VRTemplate/Blueprints/GrabComponent.GrabComponent
+LogBlueprint: Error: [AssetLog] C:\Users\nusra\OneDrive\Desktop\GIT LIVE VERSION\LSS_RT_PS\Content\VRTemplate\Blueprints\GrabComponent.uasset: [Compiler] In use pin  Target  no longer exists on node  Invalid Message Node . Please refresh node or break links to remove pin. from Source: /Game/VRTemplate/Blueprints/GrabComponent.GrabComponent
+LogBlueprint: Error: [AssetLog] C:\Users\nusra\OneDrive\Desktop\GIT LIVE VERSION\LSS_RT_PS\Content\VRTemplate\Blueprints\GrabComponent.uasset: [Compiler] In use pin  Axis Value  no longer exists on node  Invalid Message Node . Please refresh node or break links to remove pin. from Source: /Game/VRTemplate/Blueprints/GrabComponent.GrabComponent
+LogBlueprint: Error: [AssetLog] C:\Users\nusra\OneDrive\Desktop\GIT LIVE VERSION\LSS_RT_PS\Content\VRTemplate\Blueprints\GrabComponent.uasset: [Compiler] Could not find a function named "TriggerAxis" in 'GrabComponent'.
+Make sure 'GrabComponent' has been compiled for  Invalid Message Node from Source: /Game/VRTemplate/Blueprints/GrabComponent.GrabComponent
+LogMaterial: Display: Missing cached shadermap for DefaultTextMaterialOpaque in PCD3D_SM5, Default, SM5 (DDC key hash: 5C6BFB2DCF6DF4FD36D76B750B59C5776FDFD20F), compiling. 
+LogMaterial: Display: Missing cached shadermap for DefaultTextMaterialOpaque in PCD3D_SM6, Default, SM6 (DDC key hash: 35878F84D45CC6C0310FA243C208149DCD8D8BEC), compiling. 
+LogMaterial: Display: Missing cached shadermap for Widget3DPassThrough in PCD3D_SM5, Default, SM5 (DDC key hash: 82C2A0AB37AB5D54634B73CFF5EA6649E948CA1C), compiling. 
+LogMaterial: Display: Missing cached shadermap for Widget3DPassThrough in PCD3D_SM6, Default, SM6 (DDC key hash: 3497039320E068FEBBDC0526ACBC39E5D4304CE1), compiling. 
+LogMaterial: Display: Missing cached shadermap for ScreenMAT in PCD3D_SM5, Default, SM5 (DDC key hash: EE308600104D7D37B9EAEC6E4A1C073D2351A94D), compiling. 
+LogMaterial: Display: Missing cached shadermap for ScreenMAT in PCD3D_SM6, Default, SM6 (DDC key hash: 4D8FF982CE6916314325CADFE6CC615E7979D7A8), compiling. 
+LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/untitled_category/LinacUSED/Elekta_Versa_HD_Part_3) ...
+LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/untitled_category/LinacUSED/Elekta_Versa_HD_Part_4) ...
+LogMaterial: Display: Missing cached shadermap for PUSH_D1 in PCD3D_SM5, Default, SM5 (DDC key hash: 0B94DD8867B915C83559EF10BD78BFEF816C3716), compiling. 
+LogMaterial: Display: Missing cached shadermap for PUSH_D1 in PCD3D_SM6, Default, SM6 (DDC key hash: F751B644B27F5A01CA26172C2FCE25DFFED03AD0), compiling. 
+LogMaterial: Display: Missing cached shadermap for PUSH_N1 in PCD3D_SM5, Default, SM5 (DDC key hash: AA1D8B18462F3B17EC5B2B99C5F24D6E76D85C8B), compiling. 
+LogMaterial: Display: Missing cached shadermap for PUSH_N1 in PCD3D_SM6, Default, SM6 (DDC key hash: 07F6050D0C4C74C54B721278A00A4FFC2BEF36B7), compiling. 
+LogMaterial: Display: Missing cached shadermap for BUTTON_INNER_STICKER1 in PCD3D_SM5, Default, SM5 (DDC key hash: 6A8BEAE725C99EBADEBFA1D189D0D7F7FAF3C062), compiling. 
+LogMaterial: Display: Missing cached shadermap for BUTTON_INNER_STICKER1 in PCD3D_SM6, Default, SM6 (DDC key hash: 79F10D48AC9E4646374FE595AF31F6DA7CD8B6FF), compiling. 
+LogMaterial: Display: Missing cached shadermap for BUTTON_NM1 in PCD3D_SM5, Default, SM5 (DDC key hash: DEB78A33701FF2ADAB39F3CF3C8922CD1CCC7506), compiling. 
+LogMaterial: Display: Missing cached shadermap for BUTTON_NM1 in PCD3D_SM6, Default, SM6 (DDC key hash: 1DABDBA929878B6DAFAABB357D4BAE064635BD05), compiling. 
+LogMaterial: Display: Missing cached shadermap for BUTTON_D1 in PCD3D_SM5, Default, SM5 (DDC key hash: AB756C0D2E809842DE60AC5385984F3315E84D55), compiling. 
+LogMaterial: Display: Missing cached shadermap for BUTTON_D1 in PCD3D_SM6, Default, SM6 (DDC key hash: 80480D173392AF31D5D88C7E236E7823009027F8), compiling. 
+LogMaterial: Display: Missing cached shadermap for PUSH_RED in PCD3D_SM5, Default, SM5 (DDC key hash: 4F7EF2C5F914782C4315AB841858945C0FE747C5), compiling. 
+LogMaterial: Display: Missing cached shadermap for PUSH_RED in PCD3D_SM6, Default, SM6 (DDC key hash: 07D6D394FE51DB0EEA17176D986EE715CCEF9105), compiling. 
+LogMaterial: Display: Missing cached shadermap for BUTTON_YELLOW in PCD3D_SM5, Default, SM5 (DDC key hash: DCD00D145087F28926B3FB86A75E37C58CC98641), compiling. 
+LogMaterial: Display: Missing cached shadermap for BUTTON_YELLOW in PCD3D_SM6, Default, SM6 (DDC key hash: 8C20C9C4AD6BF5955EC60EE934D4B2FFC8949B55), compiling. 
+LogCook: Display: Cooked packages 378 Packages Remain 387 Total 765
+LogUObjectGlobals: Warning: [AssetLog] C:\Users\nusra\OneDrive\Desktop\GIT LIVE VERSION\LSS_RT_PS\Content\FPWeapon\Materials\MaterialLayers\ML_SoftMetal_UE4.uasset: Failed to load '/Game/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01': Can't find file.
+LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01'
+LoadErrors: Error: Unable to load package '/Game/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01_N'. The end of package tag is not valid. Check that the file is of the expected type and not corrupted.
+LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01_N'
+LoadErrors: Error: Unable to load package '/Game/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01_N'. The end of package tag is not valid. Check that the file is of the expected type and not corrupted.
+LoadErrors: Error: Unable to load package '/Game/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01_N'. The end of package tag is not valid. Check that the file is of the expected type and not corrupted.
+LogMaterial: Display: Missing cached shadermap for BUTTON_WHITE in PCD3D_SM5, Default, SM5 (DDC key hash: 83E358068E7397C21514D09D2F36FCFFEAE16CDF), compiling. 
+LogMaterial: Display: Missing cached shadermap for BUTTON_WHITE in PCD3D_SM6, Default, SM6 (DDC key hash: E963DF62EC45288FF159970294001D27B51D82C4), compiling. 
+LogMaterial: Display: Missing cached shadermap for Material_003 in PCD3D_SM5, Default, SM5 (DDC key hash: EF7324C388E1EE3198A779375104360D40807256), compiling. 
+LogMaterial: Display: Missing cached shadermap for Material_003 in PCD3D_SM6, Default, SM6 (DDC key hash: C2AABCA06ACB888F4CEBAF2CAE2851A2C1156EF7), compiling. 
+LogMaterial: Display: Missing cached shadermap for Material_001 in PCD3D_SM5, Default, SM5 (DDC key hash: 7A88553D7CFDFE1A613F32ADD6725183720FB909), compiling. 
+LogMaterial: Display: Missing cached shadermap for Material_001 in PCD3D_SM6, Default, SM6 (DDC key hash: BE05ADDEAC9B9B48DCFDD5E2A0141993A344A141), compiling. 
+LogMaterial: Display: Missing cached shadermap for stuccoSeamless in PCD3D_SM5, Default, SM5 (DDC key hash: B9FC6F62987045ED9B51AF4B9F2B98F7952FF7C9), compiling. 
+LogMaterial: Display: Missing cached shadermap for stuccoSeamless in PCD3D_SM6, Default, SM6 (DDC key hash: ACD4C7B01DA9C8231A0C5AE0F9F9F12545BB7790), compiling. 
+LogMaterial: Display: Missing cached shadermap for manual in PCD3D_SM5, Default, SM5 (DDC key hash: 002B5A7F9180982B5243E11B0435E5FD01E22370), compiling. 
+LogMaterial: Display: Missing cached shadermap for manual in PCD3D_SM6, Default, SM6 (DDC key hash: 8959CD949CA179024003C6A8B5AC47A8AA60A76D), compiling. 
+LogShaderCompilers: Warning: Failed to compile Material /HairStrands/Materials/HairMeshesDefaultMaterial.HairMeshesDefaultMaterial for platform PCD3D_SM6, Default Material will be used in game.
+/Engine/Private/BasePassVertexShader.usf:25:1: error: Parameter with semantic SV_InstanceID has overlapping semantic index at 0.
+	void Main(
+	^
+D3DCompileToDxil failed. Error code: Unspecified err0r (0x80004005).
+/Engine/Private/VelocityShader.usf:41:1: error: Parameter with semantic SV_InstanceID has overlapping semantic index at 0.
+	void MainVertexShader(
+	^
+
+LogMaterial: Display: Missing cached shadermap for PreviewShadowIndicatorMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 9078042385576A3532097DBAB03B5FF12E326A47), compiling. 
+LogMaterial: Display: Missing cached shadermap for PreviewShadowIndicatorMaterial in PCD3D_SM6, Default, SM6 (DDC key hash: 3ACFB75C1398E634E5B5BE0232DAB0C2C6CC75A5), compiling. 
+LogMaterial: Display: Missing cached shadermap for M_MS_Default_Material in PCD3D_SM5, Default, SM5 (DDC key hash: AE338A87D1EA333ACE0232305764FCA293D466B2), compiling. 
+LogMaterial: Display: Missing cached shadermap for M_MS_Default_Material in PCD3D_SM6, Default, SM6 (DDC key hash: A318D5DC9815EEE432085E71CE767E7C8040FD6C), compiling. 
+LogMaterial: Display: Missing cached shadermap for M_Sky_Panning_Clouds2 in PCD3D_SM5, Default, SM5 (DDC key hash: E823127B86CCAB1B2ED1B6BEAB7D2CAE7DCA9E53), compiling. 
+LogMaterial: Display: Missing cached shadermap for M_Sky_Panning_Clouds2 in PCD3D_SM6, Default, SM6 (DDC key hash: BC51EE31F08B8ED15207449B5FF04B0A1ADFA135), compiling. 
+LogMaterial: Display: Missing cached shadermap for OpaqueUnlitSpriteMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 0D1878357A4C759288EB897EA3F5B445DAFC586A), compiling. 
+LogMaterial: Display: Missing cached shadermap for OpaqueUnlitSpriteMaterial in PCD3D_SM6, Default, SM6 (DDC key hash: 694440CF8776B923869B898B819F8033304AF4DF), compiling. 
+LogShaderCompilers: Warning: Failed to compile Material /Game/untitled_category/SIGN/SIGN/BEAM1.BEAM1 for platform PCD3D_SM6, Default Material will be used in game.
+/Engine/Private/BasePassVertexShader.usf:25:1: error: Parameter with semantic SV_InstanceID has overlapping semantic index at 0.
+	void Main(
+	^
+D3DCompileToDxil failed. Error code: Unspecified err0r (0x80004005).
+
+LogMaterial: Display: Missing cached shadermap for SpeedTreeBillboardMaster in PCD3D_SM5, Default, SM5 (DDC key hash: 9DAB94B4BE14D06197EC43BB9DE6C315CB9672E3), compiling. 
+LogMaterial: Display: Missing cached shadermap for SpeedTreeBillboardMaster in PCD3D_SM6, Default, SM6 (DDC key hash: 4BB9DF675B6F719A56F3AF9AA6B1471BBB609516), compiling. 
+LogMaterial: Display: Missing cached shadermap for SpeedTreeMaster in PCD3D_SM5, Default, SM5 (DDC key hash: 6A8FC826062A82CCC963AF9F1124F1AC0B80206C), compiling. 
+LogMaterial: Display: Missing cached shadermap for SpeedTreeMaster in PCD3D_SM6, Default, SM6 (DDC key hash: A0E17F50CA8109BA1ECDF57640044FCC180B5AF7), compiling. 
+LogModelComponent: Model /Engine/Maps/Entry.Entry:PersistentLevel.ModelComponent_4 has elements that reference missing vertices. MaxVertex=3, NumModelVertices=0
+LogModelComponent: Model /Engine/Maps/Entry.Entry:PersistentLevel.ModelComponent_5 has elements that reference missing vertices. MaxVertex=7, NumModelVertices=0
+LogModelComponent: Model /Engine/Maps/Entry.Entry:PersistentLevel.ModelComponent_5 has elements that reference missing vertices. MaxVertex=11, NumModelVertices=0
+LogModelComponent: Model /Engine/Maps/Entry.Entry:PersistentLevel.ModelComponent_5 has elements that reference missing vertices. MaxVertex=19, NumModelVertices=0
+LogModelComponent: Model /Engine/Maps/Entry.Entry:PersistentLevel.ModelComponent_6 has elements that reference missing vertices. MaxVertex=15, NumModelVertices=0
+LogModelComponent: Model /Engine/Maps/Entry.Entry:PersistentLevel.ModelComponent_7 has elements that reference missing vertices. MaxVertex=23, NumModelVertices=0
+LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+LogAIModule: Creating AISystem for world Entry
+LogWorld: UWorld::CleanupWorld for Entry, bSessionEnded=true, bCleanupResources=true
+LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/VRTemplate/Maps/_GENERATED/nusra/MergedMesh_EA9319F4) ...
+LogCook: Display: Cooked packages 500 Packages Remain 265 Total 765
+LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/untitled_category/shelf/Shelves) ...
+LogShaderCompilers: Warning: Failed to compile Material /Engine/EngineMaterials/FlattenMaterial.FlattenMaterial for platform PCD3D_SM6, Default Material will be used in game.
+/Engine/Private/BasePassVertexShader.usf:25:1: error: Parameter with semantic SV_InstanceID has overlapping semantic index at 0.
+	void Main(
+	^
+D3DCompileToDxil failed. Error code: Unspecified err0r (0x80004005).
+
+LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/untitled_category/desk/Deskleg_001) ...
+LogMaterial: Display: Missing cached shadermap for Widget3DPassThrough_Masked in PCD3D_SM5, Default, SM5 (DDC key hash: 4E342E1D8FD8684A9074A8126985A22A14F4FAB8), compiling. 
+LogMaterial: Display: Missing cached shadermap for Widget3DPassThrough_Masked in PCD3D_SM6, Default, SM6 (DDC key hash: FB4BCF58C1D0132B717903D44BA9CD9474692E6E), compiling. 
+LogMaterial: Display: Missing cached shadermap for Widget3DPassThrough_Opaque in PCD3D_SM5, Default, SM5 (DDC key hash: 9EB33ABFCCD92065BB4D40548AFDA536790AC6CB), compiling. 
+LogMaterial: Display: Missing cached shadermap for Widget3DPassThrough_Opaque in PCD3D_SM6, Default, SM6 (DDC key hash: 693D9ED221D91D4154AC5B70F6818955DA51C81D), compiling. 
+LogShaderCompilers: Warning: Failed to compile Material /Game/untitled_category/LinacUSED/Blue_Light.Blue_Light for platform PCD3D_SM6, Default Material will be used in game.
+/Engine/Private/BasePassVertexShader.usf:25:1: error: Parameter with semantic SV_InstanceID has overlapping semantic index at 0.
+	void Main(
+	^
+D3DCompileToDxil failed. Error code: Unspecified err0r (0x80004005).
+
+LogShaderCompilers: Warning: Failed to compile Material /Engine/EngineDebugMaterials/DebugEditorMaterial.DebugEditorMaterial for platform PCD3D_SM6, Default Material will be used in game.
+/Engine/Private/VelocityShader.usf:41:1: error: Parameter with semantic SV_InstanceID has overlapping semantic index at 0.
+	void MainVertexShader(
+	^
+D3DCompileToDxil failed. Error code: Unspecified err0r (0x80004005).
+
+LogMaterial: Display: Missing cached shadermap for Widget3DPassThrough_Translucent in PCD3D_SM5, Default, SM5 (DDC key hash: CE45DF219BEC0C2498731C0E04E49E67BFC39BE5), compiling. 
+LogMaterial: Display: Missing cached shadermap for Widget3DPassThrough_Translucent in PCD3D_SM6, Default, SM6 (DDC key hash: C5EA02B91F1C87C590F69E43F862E188BBC16F7F), compiling. 
+LoadErrors: Error: Unable to load package '/Game/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01_N'. The end of package tag is not valid. Check that the file is of the expected type and not corrupted.
+LoadErrors: Error: Unable to load package '/Game/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01_N'. The end of package tag is not valid. Check that the file is of the expected type and not corrupted.
+LogMaterial: Display: Missing cached shadermap for M_FPGun in PCD3D_SM5, Default, SM5 (DDC key hash: D205FE9CBF0874265BE551B87C304899FDE30916), compiling. 
+LogMaterial: Warning: [AssetLog] C:\Users\nusra\OneDrive\Desktop\GIT LIVE VERSION\LSS_RT_PS\Content\FPWeapon\Materials\M_FPGun.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	Function ML_SoftMetal_UE4: (Node TextureSample) Texture Sample> Missing input texture
+	Function ML_SoftMetal_UE4: (Node MakeMaterialAttributes) Error on property BaseColor
+	Function ML_SoftMetal_UE4: (Node MakeMaterialAttributes) Error on property Roughness
+
+LogMaterial: Display: Missing cached shadermap for M_FPGun in PCD3D_SM6, Default, SM6 (DDC key hash: C7819CA48ED4CB4BABC16679EBF4965FECD67071), compiling. 
+LogMaterial: Warning: [AssetLog] C:\Users\nusra\OneDrive\Desktop\GIT LIVE VERSION\LSS_RT_PS\Content\FPWeapon\Materials\M_FPGun.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Function ML_SoftMetal_UE4: (Node TextureSample) Texture Sample> Missing input texture
+	Function ML_SoftMetal_UE4: (Node MakeMaterialAttributes) Error on property BaseColor
+	Function ML_SoftMetal_UE4: (Node MakeMaterialAttributes) Error on property Roughness
+
+LogMaterial: Display: Missing cached shadermap for M_UE4Man_Body in PCD3D_SM5, Default, SM5 (DDC key hash: 091AD23021619E63CF1025084C9356DE1D75B201), compiling. 
+LogMaterial: Warning: [AssetLog] C:\Users\nusra\OneDrive\Desktop\GIT LIVE VERSION\LSS_RT_PS\Content\FirstPersonArms\Character\Materials\M_UE4Man_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	Function ML_SoftMetal_UE4: (Node TextureSample) Texture Sample> Missing input texture
+	Function ML_SoftMetal_UE4: (Node MakeMaterialAttributes) Error on property BaseColor
+	Function ML_SoftMetal_UE4: (Node MakeMaterialAttributes) Error on property Roughness
+
+LogMaterial: Display: Missing cached shadermap for M_UE4Man_Body in PCD3D_SM6, Default, SM6 (DDC key hash: 84E9BD96B1315E260195F62467E8C43A15B263F2), compiling. 
+LogMaterial: Warning: [AssetLog] C:\Users\nusra\OneDrive\Desktop\GIT LIVE VERSION\LSS_RT_PS\Content\FirstPersonArms\Character\Materials\M_UE4Man_Body.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Function ML_SoftMetal_UE4: (Node TextureSample) Texture Sample> Missing input texture
+	Function ML_SoftMetal_UE4: (Node MakeMaterialAttributes) Error on property BaseColor
+	Function ML_SoftMetal_UE4: (Node MakeMaterialAttributes) Error on property Roughness
+
+LogMaterial: Warning: Cooking a material resource (in M_FPGun hierarchy) that doesn't have a valid ShaderMap! Shadermap pointer is null.
+LogMaterial: Warning: Cooking a material resource (in M_FPGun hierarchy) that doesn't have a valid ShaderMap! Shadermap pointer is null.
+LogMaterial: Warning: Cooking a material resource (in M_UE4Man_Body hierarchy) that doesn't have a valid ShaderMap! Shadermap pointer is null.
+LogMaterial: Warning: Cooking a material resource (in M_UE4Man_Body hierarchy) that doesn't have a valid ShaderMap! Shadermap pointer is null.
+LogMaterial: Display: Missing cached shadermap for M_MS_Billboard_Material in PCD3D_SM5, Default, SM5 (DDC key hash: 6F380D2787D5E5C05CB5EC6E29E3C4B985DB61EE), compiling. 
+LogMaterial: Display: Missing cached shadermap for M_MS_Billboard_Material in PCD3D_SM6, Default, SM6 (DDC key hash: 81EB3CB493EF0476EBD6778343C18D8166C8D942), compiling. 
+LogShaderCompilers: Warning: Failed to compile Material /Engine/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.TranslucentTransformGizmoMaterial for platform PCD3D_SM6, Default Material will be used in game.
+/Engine/Private/BasePassVertexShader.usf:25:1: error: Parameter with semantic SV_InstanceID has overlapping semantic index at 0.
+	void Main(
+	^
+D3DCompileToDxil failed. Error code: Unspecified err0r (0x80004005).
+
+LogShaderCompilers: Warning: Failed to compile Material /Engine/EngineDebugMaterials/M_SimpleUnlitTranslucent.M_SimpleUnlitTranslucent for platform PCD3D_SM6, Default Material will be used in game.
+/Engine/Private/BasePassVertexShader.usf:25:1: error: Parameter with semantic SV_InstanceID has overlapping semantic index at 0.
+	void Main(
+	^
+D3DCompileToDxil failed. Error code: Unspecified err0r (0x80004005).
+
+LogMaterial: Display: Missing cached shadermap for M_TeleportNoise in PCD3D_SM5, Default, SM5 (DDC key hash: 53FAD818CA0D99EA2C241E5BFAD358894DB193D9), compiling. 
+LogMaterial: Display: Missing cached shadermap for M_TeleportNoise in PCD3D_SM6, Default, SM6 (DDC key hash: 3780EF34A98DEF8653FE1915DF156C0989DD77A2), compiling. 
+LogMaterial: Display: Missing cached shadermap for M_TeleportCylinder in PCD3D_SM5, Default, SM5 (DDC key hash: AA0216D07B3F3B8DB70E0540936C8E8BFA50B23D), compiling. 
+LogMaterial: Display: Missing cached shadermap for M_TeleportCylinder in PCD3D_SM6, Default, SM6 (DDC key hash: 98FD08A82C0A1FEAB6709EAD59932BC06AD5C6B0), compiling. 
+LogUObjectGlobals: Warning: [AssetLog] C:\Users\nusra\OneDrive\Desktop\GIT LIVE VERSION\LSS_RT_PS\Content\VRTemplate\Blueprints\Menu.uasset: Failed to load '/Game/VRTemplate/VFX/NS_MenuLaser': Can't find file.
+LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/VRTemplate/VFX/NS_MenuLaser'
+LogUObjectGlobals: Warning: [AssetLog] C:\Users\nusra\OneDrive\Desktop\GIT LIVE VERSION\LSS_RT_PS\Content\VRTemplate\Blueprints\Menu.uasset: Failed to load '/Game/VRTemplate/Blueprints/WidgetMenu': Can't find file.
+LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/VRTemplate/Blueprints/WidgetMenu'
+LogBlueprint: Warning: [AssetLog] C:\Users\nusra\OneDrive\Desktop\GIT LIVE VERSION\LSS_RT_PS\Content\VRTemplate\Blueprints\Menu.uasset: [Compiler] InputAction Event references unknown Action 'TriggerLeft' for  InputAction TriggerLeft
+LogBlueprint: Warning: [AssetLog] C:\Users\nusra\OneDrive\Desktop\GIT LIVE VERSION\LSS_RT_PS\Content\VRTemplate\Blueprints\Menu.uasset: [Compiler] InputAction Event references unknown Action 'TriggerRight' for  InputAction TriggerRight
+LogBlueprint: Warning: [AssetLog] C:\Users\nusra\OneDrive\Desktop\GIT LIVE VERSION\LSS_RT_PS\Content\VRTemplate\Blueprints\Menu.uasset: [Compiler] Get Input Axis references unknown Axis 'MovementAxisRight_Y' for  Get MovementAxisRight_Y
+LogBlueprint: Warning: [AssetLog] C:\Users\nusra\OneDrive\Desktop\GIT LIVE VERSION\LSS_RT_PS\Content\VRTemplate\Blueprints\Menu.uasset: [Compiler] Get Input Axis references unknown Axis 'MovementAxisLeft_Y' for  Get MovementAxisLeft_Y
+LogBlueprint: Warning: [AssetLog] C:\Users\nusra\OneDrive\Desktop\GIT LIVE VERSION\LSS_RT_PS\Content\VRTemplate\Blueprints\Menu.uasset: [Compiler] Get Input Axis references unknown Axis 'MovementAxisRight_X' for  Get MovementAxisRight_X
+LogBlueprint: Warning: [AssetLog] C:\Users\nusra\OneDrive\Desktop\GIT LIVE VERSION\LSS_RT_PS\Content\VRTemplate\Blueprints\Menu.uasset: [Compiler] Get Input Axis references unknown Axis 'MovementAxisLeft_X' for  Get MovementAxisLeft_X
+LogMaterial: Warning: Cooking a material resource (in DebugEditorMaterial hierarchy) that doesn't have a valid ShaderMap! Shadermap pointer is null.
+LogMaterial: Display: Missing cached shadermap for M_MS_Surface_Material in PCD3D_SM5, Default, SM5 (DDC key hash: 7645402D1737038381D57945E10A086DD0BD2A9F), compiling. 
+LogMaterial: Display: Missing cached shadermap for M_MS_Surface_Material in PCD3D_SM6, Default, SM6 (DDC key hash: A7A9091711BD70CFF339E814D47721552337EB6E), compiling. 
+LogMaterial: Display: Missing cached shadermap for M_MS_Default_Fuzz_Material_VT in PCD3D_SM5, Default, SM5 (DDC key hash: 2F03F9236AB06E6E583D41198812089A5CA6A538), compiling. 
+LogMaterial: Display: Missing cached shadermap for M_MS_Default_Fuzz_Material_VT in PCD3D_SM6, Default, SM6 (DDC key hash: 6E0F7516D63099DB387AF42A4172CFF122A697D9), compiling. 
+LogMaterial: Display: Missing cached shadermap for Widget3DPassThrough_Masked_OneSided in PCD3D_SM5, Default, SM5 (DDC key hash: 68C93D5289CAD69EA5C32B358DFD69209C9B5D86), compiling. 
+LogMaterial: Display: Missing cached shadermap for Widget3DPassThrough_Masked_OneSided in PCD3D_SM6, Default, SM6 (DDC key hash: 8BD45571C7378A457504D4CEBE887F34511D9DD0), compiling. 
+LogMaterial: Display: Missing cached shadermap for Widget3DPassThrough_Opaque_OneSided in PCD3D_SM5, Default, SM5 (DDC key hash: 758880568ED5AE27A779CF0F67CDE53BB13260F0), compiling. 
+LogMaterial: Display: Missing cached shadermap for Widget3DPassThrough_Opaque_OneSided in PCD3D_SM6, Default, SM6 (DDC key hash: 538E3126A467D7BD210B4EE02B6E713B2ACB3C2D), compiling. 
+LogCook: Display: Cooked packages 608 Packages Remain 157 Total 765
+LogUObjectGlobals: Warning: [AssetLog] C:\Users\nusra\OneDrive\Desktop\GIT LIVE VERSION\LSS_RT_PS\Content\VRTemplate\Blueprints\Pistol.uasset: Failed to load '/Game/VRTemplate/Blueprints/Projectile': Can't find file.
+LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/VRTemplate/Blueprints/Projectile'
+LogUObjectGlobals: Warning: [AssetLog] C:\Users\nusra\OneDrive\Desktop\GIT LIVE VERSION\LSS_RT_PS\Content\VRTemplate\Blueprints\Pistol.uasset: Failed to load '/Game/VRTemplate/Blueprints/VRInteractionBPI': Can't find file.
+LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/VRTemplate/Blueprints/VRInteractionBPI'
+LogUObjectGlobals: Warning: [AssetLog] C:\Users\nusra\OneDrive\Desktop\GIT LIVE VERSION\LSS_RT_PS\Content\VRTemplate\Blueprints\Pistol.uasset: Failed to load '/Game/VRTemplate/Haptics/PistolFireHapticEffect': Can't find file.
+LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/VRTemplate/Haptics/PistolFireHapticEffect'
+LogBlueprint: Error: [AssetLog] C:\Users\nusra\OneDrive\Desktop\GIT LIVE VERSION\LSS_RT_PS\Content\VRTemplate\Blueprints\Pistol.uasset: [Compiler] Spawn node  SpawnActor NONE  must have a  Class  specified. from Source: /Game/VRTemplate/Blueprints/Pistol.Pistol
+LogBlueprint: Error: [AssetLog] C:\Users\nusra\OneDrive\Desktop\GIT LIVE VERSION\LSS_RT_PS\Content\VRTemplate\Blueprints\Pistol.uasset: [Compiler] In use pin  Instigator  no longer exists on node  SpawnActor NONE . Please refresh node or break links to remove pin. from Source: /Game/VRTemplate/Blueprints/Pistol.Pistol
+LogMaterial: Display: Missing cached shadermap for MI_PrototypeGrid_TopDark in PCD3D_SM5, Default, SM5 (DDC key hash: 6562A0CA8E6C4E2270803463301D8CE78173F6E7), compiling. 
+LogMaterial: Display: Missing cached shadermap for MI_PrototypeGrid_TopDark in PCD3D_SM6, Default, SM6 (DDC key hash: DBC12C84385C84A18E92A9E0E0234571F7A515C0), compiling. 
+LogMaterial: Display: Missing cached shadermap for MI_PrototypeGrid_Gray_02 in PCD3D_SM5, Default, SM5 (DDC key hash: A3FC20C1650D15F71B67EF04E1D20247CECA39B7), compiling. 
+LogMaterial: Display: Missing cached shadermap for MI_PrototypeGrid_Gray_02 in PCD3D_SM6, Default, SM6 (DDC key hash: 7EDC603C78496DA6F940918A7D4A4E11379149DD), compiling. 
+LogMaterial: Display: Missing cached shadermap for MI_PrototypeGrid_Gray in PCD3D_SM5, Default, SM5 (DDC key hash: 4BF087E438F361DC390E062C4685D0B54278B137), compiling. 
+LogMaterial: Display: Missing cached shadermap for MI_PrototypeGrid_Gray in PCD3D_SM6, Default, SM6 (DDC key hash: 622D0EDDA86C57D209D6FDFF4295F02A3809AED3), compiling. 
+LogMaterial: Display: Missing cached shadermap for MI_Grid_Default in PCD3D_SM5, Default, SM5 (DDC key hash: 50A85DB337F7A2A1CFA9F96A219B1B6996C1D068), compiling. 
+LogMaterial: Display: Missing cached shadermap for MI_Grid_Default in PCD3D_SM6, Default, SM6 (DDC key hash: 2DE16E540243BB557099EB736D89254F94962C74), compiling. 
+LogMaterial: Display: Missing cached shadermap for MI_Grid_Accent in PCD3D_SM5, Default, SM5 (DDC key hash: 4C28ADF3CAD31ADB5C26482EAAE45E0EC38C68EE), compiling. 
+LogMaterial: Display: Missing cached shadermap for MI_Grid_Accent in PCD3D_SM6, Default, SM6 (DDC key hash: 595DB29983489D362BE839BC6291F1E892FBFA16), compiling. 
+LogUObjectGlobals: Warning: [AssetLog] C:\Users\nusra\OneDrive\Desktop\GIT LIVE VERSION\LSS_RT_PS\Content\VRTemplateMap2.umap: Failed to load '/Game/VRSpectator/VRSpectator': Can't find file.
+LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/VRSpectator/VRSpectator'
+LogUObjectGlobals: Warning: [AssetLog] C:\Users\nusra\OneDrive\Desktop\GIT LIVE VERSION\LSS_RT_PS\Content\VRTemplateMap2.umap: Failed to load '/Game/VRTemplate/Blueprints/VRGameMode': Can't find file.
+LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/VRTemplate/Blueprints/VRGameMode'
+LogUObjectGlobals: Warning: [AssetLog] C:\Users\nusra\OneDrive\Desktop\GIT LIVE VERSION\LSS_RT_PS\Content\VRTemplateMap2.umap: Failed to load '/Game/Megascans/Surfaces/Aluminum_-al-_scnmcgnp/MI_Aluminum_-al-_scnmcgnp_2K': Can't find file.
+LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Megascans/Surfaces/Aluminum_-al-_scnmcgnp/MI_Aluminum_-al-_scnmcgnp_2K'
+LogUObjectGlobals: Warning: [AssetLog] C:\Users\nusra\OneDrive\Desktop\GIT LIVE VERSION\LSS_RT_PS\Content\VRTemplateMap2.umap: Failed to load '/Game/Megascans/Surfaces/Painted_Metal_Door_ugzobcglw/MI_Painted_Metal_Door_ugzobcglw_2K': Can't find file.
+LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Megascans/Surfaces/Painted_Metal_Door_ugzobcglw/MI_Painted_Metal_Door_ugzobcglw_2K'
+LogUObjectGlobals: Warning: [AssetLog] C:\Users\nusra\OneDrive\Desktop\GIT LIVE VERSION\LSS_RT_PS\Content\VRTemplateMap2.umap: Failed to load '/Game/Megascans/Surfaces/Plywood_Panels_vhqoaii/MI_Plywood_Panels_vhqoaii_2K': Can't find file.
+LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Megascans/Surfaces/Plywood_Panels_vhqoaii/MI_Plywood_Panels_vhqoaii_2K'
+LogUObjectGlobals: Warning: [AssetLog] C:\Users\nusra\OneDrive\Desktop\GIT LIVE VERSION\LSS_RT_PS\Content\VRTemplateMap2.umap: Failed to load '/Game/Megascans/Surfaces/Plywood_vdcjecc/MI_Plywood_vdcjecc_4K': Can't find file.
+LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Megascans/Surfaces/Plywood_vdcjecc/MI_Plywood_vdcjecc_4K'
+LogUObjectGlobals: Warning: [AssetLog] C:\Users\nusra\OneDrive\Desktop\GIT LIVE VERSION\LSS_RT_PS\Content\VRTemplateMap2.umap: Failed to load '/Game/Megascans/Surfaces/Sand_Blasted_Aluminum_shrocgkc/MI_Sand_Blasted_Aluminum_shrocgkc_2K': Can't find file.
+LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Megascans/Surfaces/Sand_Blasted_Aluminum_shrocgkc/MI_Sand_Blasted_Aluminum_shrocgkc_2K'
+LogUObjectGlobals: Warning: [AssetLog] C:\Users\nusra\OneDrive\Desktop\GIT LIVE VERSION\LSS_RT_PS\Content\VRTemplateMap2.umap: Failed to load '/Game/Megascans/Surfaces/Seychelles_Beige_Marble_Tiles_wgildfbv/MI_Seychelles_Beige_Marble_Tiles_wgildfbv_2K': Can't find file.
+LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Megascans/Surfaces/Seychelles_Beige_Marble_Tiles_wgildfbv/MI_Seychelles_Beige_Marble_Tiles_wgildfbv_2K'
+LogUObjectGlobals: Warning: [AssetLog] C:\Users\nusra\OneDrive\Desktop\GIT LIVE VERSION\LSS_RT_PS\Content\VRTemplateMap2.umap: Failed to load '/Game/Megascans/Surfaces/Soundproofed_Ceiling_sl4qlkd/MI_Soundproofed_Ceiling_sl4qlkd_2K': Can't find file.
+LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Megascans/Surfaces/Soundproofed_Ceiling_sl4qlkd/MI_Soundproofed_Ceiling_sl4qlkd_2K'
+LogUObjectGlobals: Warning: [AssetLog] C:\Users\nusra\OneDrive\Desktop\GIT LIVE VERSION\LSS_RT_PS\Content\VRTemplateMap2.umap: Failed to load '/Game/Megascans/Surfaces/Stucco_Wall_ukmobfecw/NewFolder/MI_Stucco_Wall_ukmobfecw_4K': Can't find file.
+LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Megascans/Surfaces/Stucco_Wall_ukmobfecw/NewFolder/MI_Stucco_Wall_ukmobfecw_4K'
+LogUObjectGlobals: Warning: [AssetLog] C:\Users\nusra\OneDrive\Desktop\GIT LIVE VERSION\LSS_RT_PS\Content\VRTemplateMap2.umap: Failed to load '/Game/Megascans/Surfaces/Stucco_Wall_ukmobfecw/NewFolder1/MI_Stucco_Wall_ukmobfecw_4K': Can't find file.
+LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Megascans/Surfaces/Stucco_Wall_ukmobfecw/NewFolder1/MI_Stucco_Wall_ukmobfecw_4K'
+LogUObjectGlobals: Warning: [AssetLog] C:\Users\nusra\OneDrive\Desktop\GIT LIVE VERSION\LSS_RT_PS\Content\VRTemplateMap2.umap: Failed to load '/Game/untitled_category/LINAC22/Elekta_Versa_HD_Bed': Can't find file.
+LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/untitled_category/LINAC22/Elekta_Versa_HD_Bed'
+LogUObjectGlobals: Warning: [AssetLog] C:\Users\nusra\OneDrive\Desktop\GIT LIVE VERSION\LSS_RT_PS\Content\VRTemplateMap2.umap: Failed to load '/Game/untitled_category/LINAC22/Elekta_Versa_HD_Bed_Push_1': Can't find file.
+LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/untitled_category/LINAC22/Elekta_Versa_HD_Bed_Push_1'
+LogUObjectGlobals: Warning: [AssetLog] C:\Users\nusra\OneDrive\Desktop\GIT LIVE VERSION\LSS_RT_PS\Content\VRTemplateMap2.umap: Failed to load '/Game/untitled_category/LINAC22/Elekta_Versa_HD_Bed_Push_2': Can't find file.
+LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/untitled_category/LINAC22/Elekta_Versa_HD_Bed_Push_2'
+LogUObjectGlobals: Warning: [AssetLog] C:\Users\nusra\OneDrive\Desktop\GIT LIVE VERSION\LSS_RT_PS\Content\VRTemplateMap2.umap: Failed to load '/Game/untitled_category/LINAC22/Elekta_Versa_HD_Bed_Push_3': Can't find file.
+LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/untitled_category/LINAC22/Elekta_Versa_HD_Bed_Push_3'
+LogUObjectGlobals: Warning: [AssetLog] C:\Users\nusra\OneDrive\Desktop\GIT LIVE VERSION\LSS_RT_PS\Content\VRTemplateMap2.umap: Failed to load '/Game/untitled_category/LINAC22/Elekta_Versa_HD_Bed_Stand': Can't find file.
+LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/untitled_category/LINAC22/Elekta_Versa_HD_Bed_Stand'
+LogUObjectGlobals: Warning: [AssetLog] C:\Users\nusra\OneDrive\Desktop\GIT LIVE VERSION\LSS_RT_PS\Content\VRTemplateMap2.umap: Failed to load '/Game/untitled_category/LINAC22/Elekta_Versa_HD_Part_1': Can't find file.
+LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/untitled_category/LINAC22/Elekta_Versa_HD_Part_1'
+LogUObjectGlobals: Warning: [AssetLog] C:\Users\nusra\OneDrive\Desktop\GIT LIVE VERSION\LSS_RT_PS\Content\VRTemplateMap2.umap: Failed to load '/Game/untitled_category/LINAC22/Elekta_Versa_HD_Part_2': Can't find file.
+LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/untitled_category/LINAC22/Elekta_Versa_HD_Part_2'
+LogUObjectGlobals: Warning: [AssetLog] C:\Users\nusra\OneDrive\Desktop\GIT LIVE VERSION\LSS_RT_PS\Content\VRTemplateMap2.umap: Failed to load '/Game/untitled_category/LINAC22/Elekta_Versa_HD_Part_3': Can't find file.
+LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/untitled_category/LINAC22/Elekta_Versa_HD_Part_3'
+LogUObjectGlobals: Warning: [AssetLog] C:\Users\nusra\OneDrive\Desktop\GIT LIVE VERSION\LSS_RT_PS\Content\VRTemplateMap2.umap: Failed to load '/Game/untitled_category/LINAC22/Left_Screen': Can't find file.
+LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/untitled_category/LINAC22/Left_Screen'
+LogUObjectGlobals: Warning: [AssetLog] C:\Users\nusra\OneDrive\Desktop\GIT LIVE VERSION\LSS_RT_PS\Content\VRTemplateMap2.umap: Failed to load '/Game/untitled_category/LINAC22/Light_Source': Can't find file.
+LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/untitled_category/LINAC22/Light_Source'
+LogUObjectGlobals: Warning: [AssetLog] C:\Users\nusra\OneDrive\Desktop\GIT LIVE VERSION\LSS_RT_PS\Content\VRTemplateMap2.umap: Failed to load '/Game/untitled_category/LINAC22/MLC': Can't find file.
+LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/untitled_category/LINAC22/MLC'
+LogUObjectGlobals: Warning: [AssetLog] C:\Users\nusra\OneDrive\Desktop\GIT LIVE VERSION\LSS_RT_PS\Content\VRTemplateMap2.umap: Failed to load '/Game/untitled_category/LINAC22/Right_Screen': Can't find file.
+LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/untitled_category/LINAC22/Right_Screen'
+LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+LogAIModule: Creating AISystem for world VRTemplateMap2
+LogWorld: UWorld::CleanupWorld for VRTemplateMap2, bSessionEnded=true, bCleanupResources=true
+LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+LogAIModule: Creating AISystem for world VRTemplateMap
+LogWorld: UWorld::CleanupWorld for VRTemplateMap, bSessionEnded=true, bCleanupResources=true
+LogCook: Display: Cooked packages 647 Packages Remain 120 Total 767
+LogShaderCompilers: Warning: Failed to compile Material /Game/untitled_category/LinacUSED/Gray_Matte_2_001.Gray_Matte_2_001 for platform PCD3D_SM6, Default Material will be used in game.
+/Engine/Private/BasePassVertexShader.usf:25:1: error: Parameter with semantic SV_InstanceID has overlapping semantic index at 0.
+	void Main(
+	^
+D3DCompileToDxil failed. Error code: Unspecified err0r (0x80004005).
+
+LogCook: Display: Cooked packages 649 Packages Remain 118 Total 767
+LogShaderCompilers: Warning: Failed to compile Material /Game/untitled_category/EMGPOWEROFFL/PUSH_N1.PUSH_N1 for platform PCD3D_SM6, Default Material will be used in game.
+/Engine/Private/VelocityShader.usf:41:1: error: Parameter with semantic SV_InstanceID has overlapping semantic index at 0.
+	void MainVertexShader(
+	^
+D3DCompileToDxil failed. Error code: Unspecified err0r (0x80004005).
+/Engine/Private/DepthOnlyVertexShader.usf:32:1: error: Parameter with semantic SV_InstanceID has overlapping semantic index at 0.
+	void Main(
+	^
+RemoveUnusedOutputs.usf:10:1: error: Parameter with semantic SV_InstanceID has overlapping semantic index at 0.
+	FOptimizedReturn Main__OPTIMIZED(FVertexFactoryInput Input, uint InstanceId : SV_InstanceID )
+	^
+
+LogShaderCompilers: Warning: Failed to compile Material /Engine/EngineMaterials/GizmoMaterial.GizmoMaterial for platform PCD3D_SM6, Default Material will be used in game.
+/Engine/Private/BasePassVertexShader.usf:25:1: error: Parameter with semantic SV_InstanceID has overlapping semantic index at 0.
+	void Main(
+	^
+D3DCompileToDxil failed. Error code: Unspecified err0r (0x80004005).
+
+LogShaderCompilers: Warning: Failed to compile Material /Game/MSPresets/M_MS_Default_Material/M_MS_Default_Material.M_MS_Default_Material for platform PCD3D_SM6, Default Material will be used in game.
+/Engine/Private/BasePassVertexShader.usf:25:1: error: Parameter with semantic SV_InstanceID has overlapping semantic index at 0.
+	void Main(
+	^
+D3DCompileToDxil failed. Error code: Unspecified err0r (0x80004005).
+
+LogShaderCompilers: Warning: Failed to compile Material /Game/untitled_category/EMGPOWEROFFL/BUTTON_INNER_STICKER1.BUTTON_INNER_STICKER1 for platform PCD3D_SM6, Default Material will be used in game.
+/Engine/Private/VelocityShader.usf:41:1: error: Parameter with semantic SV_InstanceID has overlapping semantic index at 0.
+	void MainVertexShader(
+	^
+D3DCompileToDxil failed. Error code: Unspecified err0r (0x80004005).
+
+LogMaterial: Display: Missing cached shadermap for M_MS_Decal_Material_VT in PCD3D_SM5, Low, SM5 (DDC key hash: D13F12C47AED73AD2852EDF21F2AE7E9B5BF7F66), compiling. 
+LogMaterial: Display: Missing cached shadermap for M_MS_Decal_Material_VT in PCD3D_SM5, Default, SM5 (DDC key hash: A3E4998B90743E615C7BAD1AC6E68B99E9509AA9), compiling. 
+LogMaterial: Display: Missing cached shadermap for M_MS_Decal_Material_VT in PCD3D_SM6, Low, SM6 (DDC key hash: 422286C734236D736A04F2F05A03AB41211485A7), compiling. 
+LogMaterial: Display: Missing cached shadermap for M_MS_Decal_Material_VT in PCD3D_SM6, Default, SM6 (DDC key hash: 6757886D3C4F0FF852ED71B01367A9D6844404FC), compiling. 
+LogMaterial: Warning: Cooking a material resource (in GizmoMaterial hierarchy) that doesn't have a valid ShaderMap! Shadermap pointer is null.
+LogCook: Display: Cooked packages 650 Packages Remain 117 Total 767
+LogShaderCompilers: Warning: Failed to compile Material /Game/VRTemplate/Materials/M_TeleportCylinder.M_TeleportCylinder for platform PCD3D_SM6, Default Material will be used in game.
+/Engine/Private/BasePassVertexShader.usf:25:1: error: Parameter with semantic SV_InstanceID has overlapping semantic index at 0.
+	void Main(
+	^
+D3DCompileToDxil failed. Error code: Unspecified err0r (0x80004005).
+
+LogShaderCompilers: Warning: Failed to compile Material /SpeedTreeImporter/SpeedTree9/SpeedTreeMaster.SpeedTreeMaster for platform PCD3D_SM6, Default Material will be used in game.
+/Engine/Private/VelocityShader.usf:41:1: error: Parameter with semantic SV_InstanceID has overlapping semantic index at 0.
+	void MainVertexShader(
+	^
+D3DCompileToDxil failed. Error code: Unspecified err0r (0x80004005).
+/Engine/Private/DepthOnlyVertexShader.usf:32:1: error: Parameter with semantic SV_InstanceID has overlapping semantic index at 0.
+	void Main(
+	^
+RemoveUnusedOutputs.usf:10:1: error: Parameter with semantic SV_InstanceID has overlapping semantic index at 0.
+	FOptimizedReturn Main__OPTIMIZED(FVertexFactoryInput Input, uint InstanceId : SV_InstanceID )
+	^
+
+LogCook: Display: Cook Diagnostics: OpenFileHandles=777, VirtualMemory=3081MiB
+LogShaderCompilers: Warning: Failed to compile Material /Game/VRTemplate/Materials/M_GridRotation.M_GridRotation (MI:/Game/VRTemplate/Materials/MI_Grid_Accent.MI_Grid_Accent) for platform PCD3D_SM6, Default Material will be used in game.
+/Engine/Private/BasePassVertexShader.usf:25:1: error: Parameter with semantic SV_InstanceID has overlapping semantic index at 0.
+	void Main(
+	^
+D3DCompileToDxil failed. Error code: Unspecified err0r (0x80004005).
+
+LogCook: Display: Cooked packages 650 Packages Remain 117 Total 767
+LogShaderCompilers: Warning: Failed to compile Material /Game/VRTemplate/Materials/M_GridRotation.M_GridRotation (MI:/Game/VRTemplate/Materials/MI_Grid_Default.MI_Grid_Default) for platform PCD3D_SM6, Default Material will be used in game.
+/Engine/Private/BasePassVertexShader.usf:25:1: error: Parameter with semantic SV_InstanceID has overlapping semantic index at 0.
+	void Main(
+	^
+D3DCompileToDxil failed. Error code: Unspecified err0r (0x80004005).
+
+LogShaderCompilers: Warning: Failed to compile Material /Game/LevelPrototyping/Materials/M_PrototypeGrid.M_PrototypeGrid (MI:/Game/LevelPrototyping/Materials/MI_PrototypeGrid_Gray.MI_PrototypeGrid_Gray) for platform PCD3D_SM6, Default Material will be used in game.
+/Engine/Private/BasePassVertexShader.usf:25:1: error: Parameter with semantic SV_InstanceID has overlapping semantic index at 0.
+	void Main(
+	^
+D3DCompileToDxil failed. Error code: Unspecified err0r (0x80004005).
+
+LogShaderCompilers: Warning: Failed to compile Material /Game/MSPresets/M_MS_Surface_Material/M_MS_Surface_Material.M_MS_Surface_Material for platform PCD3D_SM6, Default Material will be used in game.
+/Engine/Private/BasePassVertexShader.usf:25:1: error: Parameter with semantic SV_InstanceID has overlapping semantic index at 0.
+	void Main(
+	^
+D3DCompileToDxil failed. Error code: Unspecified err0r (0x80004005).
+
+LogShaderCompilers: Warning: Failed to compile Material /Game/LevelPrototyping/Materials/M_PrototypeGrid.M_PrototypeGrid (MI:/Game/LevelPrototyping/Materials/MI_PrototypeGrid_TopDark.MI_PrototypeGrid_TopDark) for platform PCD3D_SM6, Default Material will be used in game.
+/Engine/Private/BasePassVertexShader.usf:25:1: error: Parameter with semantic SV_InstanceID has overlapping semantic index at 0.
+	void Main(
+	^
+D3DCompileToDxil failed. Error code: Unspecified err0r (0x80004005).
+
+LogShaderCompilers: Warning: Failed to compile Material /Game/untitled_category/LinacUSED/Rubber.Rubber for platform PCD3D_SM6, Default Material will be used in game.
+/Engine/Private/BasePassVertexShader.usf:25:1: error: Parameter with semantic SV_InstanceID has overlapping semantic index at 0.
+	void Main(
+	^
+D3DCompileToDxil failed. Error code: Unspecified err0r (0x80004005).
+
+LogShaderCompilers: Warning: Failed to compile Material /Paper2D/DefaultSpriteMaterial.DefaultSpriteMaterial for platform PCD3D_SM6, Default Material will be used in game.
+/Engine/Private/BasePassVertexShader.usf:25:1: error: Parameter with semantic SV_InstanceID has overlapping semantic index at 0.
+	void Main(
+	^
+D3DCompileToDxil failed. Error code: Unspecified err0r (0x80004005).
+
+LogMaterial: Warning: Cooking a material resource (in M_GridRotation hierarchy) that doesn't have a valid ShaderMap! Shadermap pointer is null.
+LogCook: Display: Cooked packages 651 Packages Remain 116 Total 767
+LogShaderCompilers: Warning: Failed to compile Material /Game/MSPresets/M_MS_Decal_Material_VT/M_MS_Decal_Material_VT.M_MS_Decal_Material_VT for platform PCD3D_SM6, Default Material will be used in game.
+/Engine/Private/BasePassVertexShader.usf:25:1: error: Parameter with semantic SV_InstanceID has overlapping semantic index at 0.
+	void Main(
+	^
+D3DCompileToDxil failed. Error code: Unspecified err0r (0x80004005).
+
+LogShaderCompilers: Warning: Failed to compile Material /Game/MSPresets/M_MS_Decal_Material_VT/M_MS_Decal_Material_VT.M_MS_Decal_Material_VT for platform PCD3D_SM6, Default Material will be used in game.
+/Engine/Private/BasePassVertexShader.usf:25:1: error: Parameter with semantic SV_InstanceID has overlapping semantic index at 0.
+	void Main(
+	^
+D3DCompileToDxil failed. Error code: Unspecified err0r (0x80004005).
+
+LogShaderCompilers: Warning: Failed to compile Material /Engine/EngineMaterials/Widget3DPassThrough.Widget3DPassThrough (MI:/Engine/EngineMaterials/Widget3DPassThrough_Masked_OneSided.Widget3DPassThrough_Masked_OneSided) for platform PCD3D_SM6, Default Material will be used in game.
+/Engine/Private/DepthOnlyVertexShader.usf:32:1: error: Parameter with semantic SV_InstanceID has overlapping semantic index at 0.
+	void Main(
+	^
+D3DCompileToDxil failed. Error code: Unspecified err0r (0x80004005).
+
+LogShaderCompilers: Warning: Failed to compile Material /Game/LevelPrototyping/Materials/M_PrototypeGrid.M_PrototypeGrid (MI:/Game/LevelPrototyping/Materials/MI_PrototypeGrid_Gray_02.MI_PrototypeGrid_Gray_02) for platform PCD3D_SM6, Default Material will be used in game.
+/Engine/Private/BasePassVertexShader.usf:25:1: error: Parameter with semantic SV_InstanceID has overlapping semantic index at 0.
+	void Main(
+	^
+D3DCompileToDxil failed. Error code: Unspecified err0r (0x80004005).
+
+LogShaderCompilers: Warning: Failed to compile Material /Game/untitled_category/LPObuttons/LPO_GREY_BOX_001.LPO_GREY_BOX_001 for platform PCD3D_SM6, Default Material will be used in game.
+/Engine/Private/BasePassVertexShader.usf:25:1: error: Parameter with semantic SV_InstanceID has overlapping semantic index at 0.
+	void Main(
+	^
+D3DCompileToDxil failed. Error code: Unspecified err0r (0x80004005).
+
+LogShaderCompilers: Warning: Failed to compile Material /Engine/EngineDebugMaterials/DebugMeshMaterial.DebugMeshMaterial for platform PCD3D_SM6, Default Material will be used in game.
+/Engine/Private/BasePassVertexShader.usf:25:1: error: Parameter with semantic SV_InstanceID has overlapping semantic index at 0.
+	void Main(
+	^
+D3DCompileToDxil failed. Error code: Unspecified err0r (0x80004005).
+
+LogMaterial: Display: Missing cached shadermap for M_MS_Default_Fuzz_Material in PCD3D_SM5, Default, SM5 (DDC key hash: 3B9512FADE05856DF2B930D2100366A20EAFEB0B), compiling. 
+LogMaterial: Display: Missing cached shadermap for M_MS_Default_Fuzz_Material in PCD3D_SM6, Default, SM6 (DDC key hash: 615A35E1F6E59D4EB7FDCF59C311CC29CAFA9AB9), compiling. 
+LogMaterial: Warning: Cooking a material resource (in DebugMeshMaterial hierarchy) that doesn't have a valid ShaderMap! Shadermap pointer is null.
+LogCook: Display: Cooked packages 652 Packages Remain 115 Total 767
+LogShaderCompilers: Warning: Failed to compile Material /Game/untitled_category/EMGPOWEROFFL/BUTTON_NM1.BUTTON_NM1 for platform PCD3D_SM6, Default Material will be used in game.
+RemoveUnusedOutputs.usf:10:1: error: Parameter with semantic SV_InstanceID has overlapping semantic index at 0.
+	FOptimizedReturn Main__OPTIMIZED(FVertexFactoryInput Input, uint InstanceId : SV_InstanceID )
+	^
+D3DCompileToDxil failed. Error code: Unspecified err0r (0x80004005).
+
+LogShaderCompilers: Warning: 2 Shader compiler errors compiling WorldGridMaterial for platform PCD3D_SM6:
+LogShaders: Error: Virtual shader source file name "RemoveUnusedOutputs.usf" should be absolute from the virtual root directory "/".
+LogShaderCompilers: Warning: Shader debug info dumped to: "C:/Users/nusra/OneDrive/Desktop/GIT LIVE VERSION/LSS_RT_PS/Saved/ShaderDebugInfo/PCD3D_SM6/WorldGridMaterial/DepthNoPixelPipeline/FNiagaraMeshVertexFactory/TDepthOnlyVS(false)/0"
+C:/Program Files/Epic Games/UE_5.0/Engine/Binaries/Win64/(9,1): Shader TDepthOnlyVS<false>, Permutation 0, VF FNiagaraMeshVertexFactory:
+	RemoveUnusedOutputs.usf(9,1): error: Parameter with semantic SV_InstanceID has overlapping semantic index at 0.
+	FOptimizedReturn Main__OPTIMIZED(FVertexFactoryInput Input, uint InstanceId : SV_InstanceID )
+	^
+
+LogShaderCompilers: Warning: C:/Program Files/Epic Games/UE_5.0/Engine/Shaders/Private/DepthOnlyVertexShader.usf(): Shader TDepthOnlyVS<false>, Permutation 0, VF FNiagaraMeshVertexFactory:
+	D3DCompileToDxil failed. Error code: Unspecified error (0x80004005).
+
+LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+LogWindows: Windows GetLastError: The operation completed successfully. (0)
