@@ -1,0 +1,10 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.OpenXRExpansionEditor.cpp.obj": [
+			"OpenXRExpansionEditor.init.gen.cpp.obj",
+			"AnimGraphNode_ApplyOpenXRHandPose.cpp.obj",
+			"OpenXRExpansionEditor.cpp.obj"
+		]
+	}
+}

@@ -1,0 +1,21 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\morde\\documents\\unreal projects\\pluginexpproject\\plugins\\vrexpansionplugin\\vrexpansionplugin\\intermediate\\build\\win64\\x64\\unrealeditor\\debuggame\\vrexpansionplugin\\module.vrexpansionplugin.5_of_5.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\morde\\documents\\unreal projects\\pluginexpproject\\intermediate\\build\\win64\\x64\\vrexppluginexampleeditor\\debuggame\\unrealed\\sharedpch.unrealed.nonoptimized.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\morde\\documents\\unreal projects\\pluginexpproject\\plugins\\vrexpansionplugin\\vrexpansionplugin\\intermediate\\build\\win64\\x64\\unrealeditor\\debuggame\\vrexpansionplugin\\definitions.vrexpansionplugin.h",
+            "c:\\users\\morde\\documents\\unreal projects\\pluginexpproject\\plugins\\vrexpansionplugin\\vrexpansionplugin\\source\\vrexpansionplugin\\private\\vrtrackedparentinterface.cpp",
+            "c:\\users\\morde\\documents\\unreal projects\\pluginexpproject\\plugins\\vrexpansionplugin\\vrexpansionplugin\\source\\vrexpansionplugin\\public\\vrtrackedparentinterface.h",
+            "c:\\users\\morde\\documents\\unreal projects\\pluginexpproject\\plugins\\vrexpansionplugin\\vrexpansionplugin\\source\\vrexpansionplugin\\public\\vrbpdatatypes.h",
+            "d:\\ue5\\ue_5.2\\engine\\source\\runtime\\engine\\classes\\physicsengine\\constraintdrives.h",
+            "d:\\ue5\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\constraintdrives.generated.h",
+            "c:\\users\\morde\\documents\\unreal projects\\pluginexpproject\\plugins\\vrexpansionplugin\\vrexpansionplugin\\intermediate\\build\\win64\\unrealeditor\\inc\\vrexpansionplugin\\uht\\vrbpdatatypes.generated.h",
+            "c:\\users\\morde\\documents\\unreal projects\\pluginexpproject\\plugins\\vrexpansionplugin\\vrexpansionplugin\\intermediate\\build\\win64\\unrealeditor\\inc\\vrexpansionplugin\\uht\\vrtrackedparentinterface.generated.h",
+            "c:\\users\\morde\\documents\\unreal projects\\pluginexpproject\\plugins\\vrexpansionplugin\\vrexpansionplugin\\intermediate\\build\\win64\\unrealeditor\\inc\\vrexpansionplugin\\uht\\vrtrackedparentinterface.gen.cpp"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
